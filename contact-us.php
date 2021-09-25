@@ -18,7 +18,7 @@
         }
 
         .warnMessage {
-            color: yellow;
+            color: red;
             font-size: 14px;
             padding-top: 10px;
             font-weight: bold;
