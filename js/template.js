@@ -399,7 +399,7 @@ jQuery(document).ready(function ($) {
         /* Google map for contact form
          * Source: https://developers.google.com/maps/documentation/javascript/ */
         /*-----------------------------------------------------------------------------------*/
-        google_map: function (map, marker) {
+       /* google_map: function (map, marker) {
 
             // Map options
             map = new google.maps.Map(this.selector_google_map, {
@@ -427,7 +427,7 @@ jQuery(document).ready(function ($) {
 
             // To add the marker to the map, call setMap();
             marker.setMap(map);
-        },
+        },*/
 
 
         /*-----------------------------------------------------------------------------------*/
@@ -517,7 +517,7 @@ jQuery(document).ready(function ($) {
     TOptions.portfolio_section();
     TOptions.team_section();
     TOptions.tweets_section();
-    TOptions.google_map();
+    //TOptions.google_map();
     TOptions.ajax_form_submit();
     TOptions.scroll_up();
 
