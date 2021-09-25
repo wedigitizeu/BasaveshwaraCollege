@@ -385,16 +385,27 @@ teaching and learning process</li>
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-5">
                                             <!-- Image -->
-                                            <figure><img src="images/team1.jpg" alt="User"></figure>
+                                            <figure><img src="images/Reshma.jpg" alt="Reshma"></figure>
                                         </div>
                                         <div class="col-xs-12 col-sm-7">
                                             <div class="team-description">
                                                 <!-- Title -->
-                                                <h4>Jhon Due Stive</h4>
+                                                <h4>Reshma HS</h4>
                                                 <!-- Description -->
-                                                <h5>Founder & CEO</h5>
+                                                <h5>THE PRINCIPAL</h5>
                                                 <!-- Paragraph -->
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries but also the leap into electronic typesetting remaining essentially unchanged It was popularised in the with the release.</p>
+                                                <p style="color: black">The moment you stepped into basaveshwara collage of 
+education your feeling drags you to a most devoted world of excellence in the 
+field of education. there is un-visible vibrancy in the air and the very 
+atmosphere which seems to be charged with knowledge and enlightment in the 
+very recognision appeared on you exhibits that you have entered in to extra 
+ordinary institution.
+
+
+The activities that you find in this campus are unquestionabl enlarging 
+the quest for development of knowledge and individual skill which itself is an 
+example of the appearent distinguish the basaveshwara college of education
+from the rest.</p>
 
 
                                                 <!-- Progress -->
@@ -441,16 +452,25 @@ teaching and learning process</li>
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-5">
                                             <!-- Image -->
-                                            <figure><img src="images/team6.jpg" alt="User"></figure>
+                                            <figure><img src="images/Vishwanath.jpg" alt="Vishwanath"></figure>
                                         </div>
                                         <div class="col-xs-12 col-sm-7">
                                             <div class="team-description">
                                                 <!-- Title -->
-                                                <h4>Due Stive</h4>
+                                                <h4>Mr Vishwanath</h4>
                                                 <!-- Description -->
-                                                <h5>Founder</h5>
+                                                <h5>Ceo,(cheif administrative officer)</h5>
                                                 <!-- Paragraph -->
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries but also the leap into electronic typesetting remaining essentially unchanged It was popularised in the with the release.</p>
+                                                <p style="color: black">
+According to new education policy "No country can raise 
+above the levels of its teachers". "The destiny of the nation is being 
+shaped in its classrooms." the main aim of education is must have life 
+leading, character forming,and produce ideal citizens to the country.
+according to swami vivekananda, "Education is the manifestation of 
+perfection already reached in man" keeping this vision as guiding force sri
+jagajyoti basaveshvara sahakara sangha (N) is only one biggest co-
+operative educational organisation established prestigious college of 
+education in bangalore.</p>
 
 
                                                 <!-- Progress -->
@@ -499,8 +519,8 @@ teaching and learning process</li>
                         <!-- Thumbnail -->
                         <div class="swiper-container thumbnail" id="team-thumbnails">
                             <ul class="swiper-wrapper">
-                                <li class="swiper-slide" style="background-image:url(images/team-thumb1.jpg)"></li>
-                                <li class="swiper-slide" style="background-image:url(images/team-thumb2.jpg)"></li>
+                                <li class="swiper-slide" style="background-image:url(images/Reshma.jpg)"></li>
+                                <li class="swiper-slide" style="background-image:url(images/Vishwanath.jpg)"></li>
                              
                             </ul>
                         </div>
