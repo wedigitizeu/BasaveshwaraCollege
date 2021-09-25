@@ -211,12 +211,12 @@
                             </div>
 
                             <!-- Google map show using API -->
-                            <div class="col-xs-12 col-sm-12 col-md-6 no-left-padding">
+                            <!-- <div class="col-xs-12 col-sm-12 col-md-6 no-left-padding">
                                 <div class="inner">
                                     <div class="site-google-map" id="site-map"></div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
 
 
