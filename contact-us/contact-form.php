@@ -19,8 +19,12 @@
 
     <label><textarea name="message" id="message" placeholder="Your message" ></textarea>
     <p class= "warnMessage" id="messageWarning"></p>  
-    <div class="g-recaptcha" data-sitekey="6LfggCYcAAAAAD0pAUDicjWCvwo-q8KGdnqpQ3JA"></div>
+    
 </label>
+
+<div class="g-recaptcha" data-sitekey="6LfggCYcAAAAAD0pAUDicjWCvwo-q8KGdnqpQ3JA"></div>
+
+
     <!-- Submit -->
     <button type="submit">Send request <i class="fa fa-spin fa-spinner"></i></button>
 </form>
