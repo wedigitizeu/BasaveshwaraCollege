@@ -156,7 +156,7 @@ giving excellent modernised, technology oriented and would class education.</p>
                     <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                         <div class="feature-box">
                             <!-- Icon -->
-                            <figure> <img src="images/about-feature1.png" alt="image"> </figure>
+                            <figure> <img src="images/about-feature2.png" alt="image"> </figure>
                             <!-- Heading -->
                             <h3 style="color: white">Responsibility</h3>
                             <!-- Paragraph -->
@@ -170,7 +170,7 @@ To promote communal harmony.</p>
                     <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
                         <div class="feature-box">
                             <!-- Icon -->
-                            <figure> <img src="images/about-feature2.png" alt="image"> </figure>
+                            <figure> <img src="images/about-feature1.png" alt="image"> </figure>
                             <!-- Heading -->
                             <h3  style="color: white">Quality Education</h3>
                             <!-- Paragraph -->
@@ -187,7 +187,7 @@ To impart quality education which moulds the holistic personality of the student
                             <!-- Heading -->
                             <h3  style="color: white">Academic Excellence </h3>
                             <!-- Paragraph -->
-                            <p>To ignite the young minds inthe learning environment of high academic excellence</p>
+                            <p>To ignite the young minds inthe learning environment of high academic excellence.</p>
                         </div>
                     </div>
 
