@@ -4,10 +4,10 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="One Page Corporate HTML Template">
     <meta name="author" content="">
-    <link rel="icon" href="images/favicon.ico">
+    <link rel="icon" href="images/favicon.png">
 
     <!-- Title -->
-    <title>Corbiz - Multipurpose Business Consulting HTML template</title>
+    <title>B.Ed-BASAVESHWARA COLLEGE OF EDUCATION</title>
 
     <!-- Necessary CSS Files -->
     <link href="css/bootstrap.min.css" rel="stylesheet">            									<!-- Bootstrap CSS Only GRID -->

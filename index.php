@@ -10,8 +10,9 @@
    <div class="site-top-bar">
             <?php include_once('./includes/topBar.php')?>
 
+
    </div>
-   
+            <img src="images/logo.jpg" width="1250" height="85" alt="Logo">  
 <header class="site-header" id="sticky-header">
         <?php include_once('./includes/header.php')?>
  </header>

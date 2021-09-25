@@ -41,7 +41,7 @@
                         <!-- H2 heading -->
                         <h2>About us</h2>
                         <!-- H1 Heading -->
-                        <h1>We are Corbiz</h1>
+                        <h1>Basaveshwara B.ED College</h1>
                         <!-- Bredcum links -->
                         <div class="row">
                             <div class="col-xs-12 col-sm-6 col-sm-offset-3">
@@ -49,9 +49,7 @@
                                     <li> <a href="index.html">Home » </a> </li>
                                     <li>About us</li>
                                 </ul>
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting indus orem Ipsum has been the industry's standard dummy.
-                                </p>
+                       
                             </div>
                         </div>
                     </div>
@@ -88,25 +86,15 @@
                                 <div class="col-xs-12 col-sm-12 col-md-6">
                                     <div class="right-box">
                                         <!-- H3 heading -->
-                                        <h3>Our Vission & Mission</h3>
+                                        <h3>Our Vission</h3>
 
                                         <!-- Paragraph -->
                                         <p>
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                          The vision of the college is "To bring out the best in man by providing value based need 
+based and career oriented education and create self reliant global citizens"
                                         </p>
+    
 
-                                        <!-- Figure -->
-                                        <figure>
-                                            <img src="images/signature.png" alt="image">
-                                        </figure>
-
-                                        <!-- name -->
-                                        <div class="name">Jhone Due name
-                                        </div>
-
-                                        <!-- designation -->
-                                        <div class="designation">Founder & CEO
-                                        </div>
                                     </div>
 
                                 </div>
@@ -116,11 +104,11 @@
                     </div>
                 </div>
             </div>
+            <br>
             <!-- End Bootstrap -->
 
         </div>
         <!-- End Site Features  -->
-
         <!-- Overview -->
         <div id="overview" class="overview-section inner-page-white-section">
 
@@ -130,16 +118,22 @@
                     <div class="col-xs-12">
 
                         <!-- H1 Heading -->
-                        <h1>overview</h1>
+                        <h1 style="color: white">Our Mission</h1>
 
                         <!-- H2 heading -->
-                        <h2 style="color: white;">Get guarantee success with our advisors!
+                        <h2 style="color: white;">
                         </h2>
 
                         <!-- Left colom -->
                         <div class="overview">
                             <!-- Paragraph -->
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries but also the leap into <span class="color-text">your success is our goal</span> essentially unchanged It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages, and moe recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsume leap into electronic typesetting.</p>
+                            <p style="color:Orange    ">
+"The destiny of india is being shaped in the classrooms". It is the teacher who moulds and gives
+proper shape to the behavior of the students in the classrooms. The main aim of education is to create
+classless,colourless society in the nation. To produce citizens who have harmoneously blend of
+traditional values professional skills and competent teachers, to the society. <span class="color-text"></span>  Keeping this in view shri
+jagajyothi Basaveswara sahakara sangha established prestigious college of education in the year 2005, by
+giving excellent modernised, technology oriented and would class education.</p>
 
                         </div>
 
@@ -164,10 +158,11 @@
                             <!-- Icon -->
                             <figure> <img src="images/about-feature1.png" alt="image"> </figure>
                             <!-- Heading -->
-                            <h3>Fast & effective business solution</h3>
+                            <h3 style="color: white">Responsibility</h3>
                             <!-- Paragraph -->
-                            <p>Lorem Ipsum is simply dummy of the
-                                tingand typeseing industry Lorem Ipsum been industry standard.</p>
+                            <p>To provide value-base  education.
+
+To promote communal harmony.</p>
                         </div>
                     </div>
 
@@ -177,10 +172,10 @@
                             <!-- Icon -->
                             <figure> <img src="images/about-feature2.png" alt="image"> </figure>
                             <!-- Heading -->
-                            <h3>Growth effective pro system available</h3>
+                            <h3  style="color: white">Quality Education</h3>
                             <!-- Paragraph -->
-                            <p>Lorem Ipsum is simply dummy of the
-                                tingand typeseing industry Lorem Ipsum been industry standard.</p>
+                            <p>
+To impart quality education which moulds the holistic personality of the student. </p>
                         </div>
                     </div>
 
@@ -190,10 +185,9 @@
                             <!-- Icon -->
                             <figure> <img src="images/about-feature3.png" alt="image"> </figure>
                             <!-- Heading -->
-                            <h3>Worldwide expertise leadership </h3>
+                            <h3  style="color: white">Academic Excellence </h3>
                             <!-- Paragraph -->
-                            <p>Lorem Ipsum is simply dummy of the
-                                tingand typeseing industry Lorem Ipsum been industry standard.</p>
+                            <p>To ignite the young minds inthe learning environment of high academic excellence</p>
                         </div>
                     </div>
 
@@ -203,10 +197,10 @@
                             <!-- Icon -->
                             <figure> <img src="images/about-feature4.png" alt="image"> </figure>
                             <!-- Heading -->
-                            <h3>Achieve success in your business</h3>
+                            <h3  style="color: white">Adapt and Growth</h3>
                             <!-- Paragraph -->
-                            <p>Lorem Ipsum is simply dummy of the
-                                tingand typeseing industry Lorem Ipsum been industry standard.</p>
+                            <p> create a healthy atmosphere for learning and
+positive interaction.</p>
                         </div>
                     </div>
 
@@ -318,22 +312,25 @@
 
                         <div class="left-colom">
                             <!-- H1 Heading -->
-                            <h1>Personal Assistance</h1>
+                            <h1> OBJECTIVES</h1>
 
                             <!-- H2 heading -->
-                            <h2>Our personal assistance will guide you.
+                            <h2>
+BASAVESHWARA COLLEGE OF EDUCATION
                             </h2>
 
                             <!-- paragraph -->
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries but also the leap into electronic.</p>
-
+                            
                             <!-- list -->
                             <ul>
-                                <li>Lorem Ipsum is simply dummy text of the printing </li>
-                                <li>And typesetting industry Lorem Ipsum has been the industrys </li>
-                                <li>Standard dummy text ever since the </li>
-                                <li>When an unknown printer took a galley of type </li>
-                                <li>And scrambled it to make a type specimen book It has. </li>
+                                <li>To create the citizens, who have a harmoneous blead of traditional values and professionlal skills.</li>
+                                <li>To prepare a international standerd, competent truly dedicated and committed teacher trainees.</li>
+                                <li> To provide teacher trainees in using information teachnological, and modern facilities for effective 
+teaching and learning process</li>
+                                <li>To create awareness about current educational and social problems in teacher trainees.</li>
+                                <li>To achieve academic 
+`excellence among the economically, socially, academically in the teacher trainees</li>
+<li>To create awareness about social, national and international issues among the teacher trainees.</li>
                             </ul>
 
                         </div>
@@ -356,279 +353,9 @@
         </div>
         <!-- End Two colom full width 2 -->
 
-        <!-- Tabs -->
-        <div id="why-us" class="site-tabs site-white-section">
 
-            <!-- Bootstrap -->
-            <div class="container">
-                <div class="row">
-                    <!-- H1 Heading -->
-                    <h1>Why choose us ?</h1>
+    
 
-                    <!-- H2 heading -->
-                    <h2>This is why thousands of people<br>
-                        choose our services.</h2>
-
-                    <div class="col-xs-12">
-                        <!-- Tabs wrapper -->
-                        <div class="site-tabs-wrapper" id="site-tabs-1">
-
-                            <!-- Buttons -->
-                            <ul class="site-tabs-buttons">
-                                <li><a data-tab-bg="tab-bg-1" href="#tab-1">Quality strategy</a></li>
-                                <li><a data-tab-bg="tab-bg-2" href="#tab-2">Financial Services </a></li>
-                                <li><a data-tab-bg="tab-bg-3" href="#tab-3">Successful planning</a></li>
-                            </ul>
-
-                            <!-- Tabs content -->
-                            <!-- Tab 1 -->
-                            <div class="site-tabs-content" id="tab-1">
-                                <div class="col-xs-12 col-md-6">
-                                    <!-- Paragraph -->
-                                    <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem. </h3>
-                                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has. </p>
-                                    <!-- order List -->
-                                    <ul>
-                                        <li>Lorem Ipsum is simply dummy text of the printing </li>
-                                        <li>And typesetting industry Lorem Ipsum has been the industrys</li>
-                                        <li>Standard dummy text ever since the</li>
-                                        <li>When an unknown printer took a galley of type </li>
-                                        <li>Lorem Ipsum is simply dummy text of the printing </li>
-                                    </ul>
-                                </div>
-
-                                <div class="col-xs-12 col-md-6">
-                                    <div class="site-tab-bg tab-bg-1 active" style="background-image: url(images/tabs-bg-1.png)"></div>
-                                </div>
-
-                            </div>
-
-                            <!-- Tab 2 -->
-                            <div class="site-tabs-content" id="tab-2">
-                                <div class="col-xs-12 col-md-6">
-                                    <!-- Paragraph -->
-                                    <h3>Printing and typesetting industry Lorem Lorem Ipsum is simply. </h3>
-                                    <p> Standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys. </p>
-                                    <!-- order List -->
-                                    <ul>
-                                        <li>Standard dummy text ever since the</li>
-                                        <li>When an unknown printer took a galley of type </li>
-                                        <li>Lorem Ipsum is simply dummy text of the printing </li>
-                                        <li>And typesetting industry Lorem Ipsum has been the industrys</li>
-                                        <li>Lorem Ipsum is simply dummy </li>
-                                    </ul>
-                                </div>
-                                <div class="col-xs-12 col-md-6">
-                                    <div class="site-tab-bg tab-bg-2" style="background-image: url(images/tabs-bg-2.png)"></div>
-                                </div>
-                            </div>
-
-                            <!-- Tab 3 -->
-                            <div class="site-tabs-content" id="tab-3">
-                                <div class="col-xs-12 col-md-6">
-                                    <!-- Paragraph -->
-                                    <h3>Text of the printing and Lorem Ipsum is typesetting industry Lorem. </h3>
-                                    <p> Text of the printing and typesetting industry Lorem Ipsum has been the galley of type and scrambled it to make a type specimen book It has industrys standardindustrys standard dummy text ever since the when an unknown printer took. </p>
-                                    <!-- order List -->
-                                    <ul>
-                                        <li>Lorem Ipsum is simply dummy text of the printing </li>
-                                        <li>When an unknown printer took a galley of type </li>
-                                        <li>And typesetting industry Lorem Ipsum has been the industrys</li>
-                                        <li>Standard dummy text ever since the</li>
-                                        <li>Lorem Ipsum is simply dummy text of the</li>
-                                    </ul>
-                                </div>
-                                <div class="col-xs-12 col-md-6">
-                                    <div class="site-tab-bg tab-bg-3" style="background-image: url(images/tabs-bg-3.png)"></div>
-                                </div>
-                            </div>
-
-                        </div>
-                        <!-- End Tabs -->
-
-                    </div>
-
-                </div>
-            </div>
-            <!-- End Bootstrap -->
-
-        </div>
-        <!-- End Tabs -->
-
-        <!-- Statistic -->
-        <div class="innerpage-site-statistic inner-page-dark-section" id="statistic">
-
-            <!-- Bootstrap -->
-            <div class="container">
-                <!-- inner box -->
-                <div class="site-section-box">
-
-                    <div class="row">
-                        <!-- Number -->
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <div class="site-number-2">
-                                <!-- Inline wrapper -->
-                                <div class="site-number-inline-2">
-                                    <!-- Icon -->
-                                    <figure> <img src="images/stat-icon-white-1.png" alt="image"> </figure>
-                                    <!-- Heading -->
-                                    <h3><span class="counter counter-default">20</span>+</h3>
-                                    <!-- Paragraph -->
-                                    <p>Years of experience</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <div class="site-number-2">
-                                <!-- Inline wrapper -->
-                                <div class="site-number-inline-2">
-                                    <!-- Icon -->
-                                    <figure> <img src="images/stat-icon-white-2.png" alt="image"> </figure>
-                                    <!-- Heading -->
-                                    <h3><span class="counter counter-default">500</span>K</h3>
-                                    <!-- Paragraph -->
-                                    <p>project completed</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <div class="site-number-2">
-                                <!-- Inline wrapper -->
-                                <div class="site-number-inline-2">
-                                    <!-- Icon -->
-                                    <figure> <img src="images/stat-icon-white-3.png" alt="image"> </figure>
-                                    <!-- Heading -->
-                                    <h3><span class="counter counter-default">550</span></h3>
-                                    <!-- Paragraph -->
-                                    <p>Happy users</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                            <div class="site-number-2">
-                                <!-- Inline wrapper -->
-                                <div class="site-number-inline-2">
-                                    <!-- Icon -->
-                                    <figure> <img src="images/stat-icon-white-4.png" alt="image"> </figure>
-                                    <!-- Heading -->
-                                    <h3><span class="counter counter-default">380</span>K</h3>
-                                    <!-- Paragraph -->
-                                    <p>Cups of coffee</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- End Bootstrap -->
-
-        </div>
-        <!-- End Statistic -->
-
-        <!-- Testimonial -->
-        <div id="testimonial" class="site-testimonial site-white-section">
-
-            <!-- Bootstrap -->
-            <div class="container-fluid wide">
-                <div class="row">
-                    <div class="col-xs-12">
-
-                        <!-- H1 heading -->
-                        <h1>Client testimonials</h1>
-
-                        <!-- H2 heading -->
-                        <h2>500+ happy clients</h2>
-
-                        <div class="col-xs-12 col-md-8 col-md-push-2">
-                            <!-- Slider main container -->
-                            <div class="swiper-container" id="testimonial-slider">
-                                <!-- Additional required wrapper -->
-                                <div class="swiper-wrapper">
-
-                                    <!-- Slides -->
-                                    <div class="swiper-slide">
-                                        <!-- Image -->
-                                        <figure><img src="images/testimonial-user-1.png" alt="User"></figure>
-                                        <!-- H4 heading -->
-                                        <h4>Excellent service & support!!</h4>
-                                        <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry
-                                            Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type </p>
-                                        <!-- Title -->
-                                        <h5>Devil Shohemark</h5>
-                                        <!-- description -->
-                                        <h6>ECO, Kalanidhi</h6>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <!-- Image -->
-                                        <figure><img src="images/testimonial-user-2.png" alt="User"></figure>
-                                        <!-- H4 heading -->
-                                        <h4>Excellent service & support!!</h4>
-                                        <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry
-                                            Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type </p>
-                                        <!-- Title -->
-                                        <h5>Monster Dustinegre</h5>
-                                        <!-- description -->
-                                        <h6>MD, Envato</h6>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <!-- Image -->
-                                        <figure><img src="images/testimonial-user-3.png" alt="User"></figure>
-                                        <!-- H4 heading -->
-                                        <h4>Excellent service & support!!</h4>
-                                        <!-- Paragraph -->
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry
-                                            Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type </p>
-                                        <!-- Title -->
-                                        <h5>Monster Dustinegre</h5>
-                                        <!-- description -->
-                                        <h6>MD, Envato</h6>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="col-xs-12">
-                        <!-- If we need pagination -->
-                        <div id="testimonial-pagination" class="swiper-pagination"></div>
-                    </div>
-
-
-
-                </div>
-            </div>
-            <!-- End bootstrap -->
-
-        </div>
-        <!-- End testimonial -->
-
-        <!-- Clients -->
-        <div class="site-clients">
-
-            <!-- Bootstrap -->
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-
-                        <!-- Images -->
-                        <figure><a href="#"><img src="images/client-1.png" alt="client"></a></figure>
-                        <figure><a href="#"><img src="images/client-2.png" alt="client"></a></figure>
-                        <!-- Active -->
-                        <figure class="active"><a href="#"><img src="images/client-3.png" alt="client"></a></figure>
-                        <figure><a href="#"><img src="images/client-4.png" alt="client"></a></figure>
-                        <figure><a href="#"><img src="images/client-5.png" alt="client"></a></figure>
-
-                    </div>
-                </div>
-            </div>
-            <!-- End bootstrap -->
-
-        </div>
-        <!-- End clients -->
 
         <!-- Team -->
         <div id="team" class="site-team site-white-section">
@@ -638,11 +365,10 @@
                 <div class="row">
                     <div class="col-xs-12">
 
-                        <h1>Our team</h1>
+                 
 
                         <!-- H2 heading -->
-                        <h2>Highly profesional &<br>
-                            Wel trained experts team</h2>
+                        <h2>Messages From CEO & Principle</h2>
 
                     </div>
                     <div class="col-xs-12 col-md-10 col-md-push-2">
@@ -705,212 +431,10 @@
                                     </div>
 
                                 </div>
-                                <div class="swiper-slide">
+              
 
-                                    <!-- Bootstrap inner columns -->
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-5">
-                                            <!-- Image -->
-                                            <figure><img src="images/team2.jpg" alt="User"></figure>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-7">
-                                            <div class="team-description">
-                                                <!-- Title -->
-                                                <h4>Jhon Due Mata</h4>
-                                                <!-- Description -->
-                                                <h5>Founder & CEO</h5>
-                                                <!-- Paragraph -->
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries but also the leap into electronic typesetting remaining essentially unchanged It was popularised in the with the release.</p>
-
-
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Education - 68%</span>
-                                                    <label>
-                                                        <span style="width: 68%"></span>
-                                                    </label>
-                                                </div>
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Experience - 45%</span>
-                                                    <label>
-                                                        <span style="width: 45%"></span>
-                                                    </label>
-                                                </div>
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Intelligence - 88%</span>
-                                                    <label>
-                                                        <span style="width: 88%"></span>
-                                                    </label>
-                                                </div>
-
-                                                <!-- Social icons -->
-                                                <div class="site-team-social">
-                                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                                    <a href="#"><i class="fa fa-google-plus"></i></a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide">
-
-                                    <!-- Bootstrap inner columns -->
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-5">
-                                            <!-- Image -->
-                                            <figure><img src="images/team3.jpg" alt="User"></figure>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-7">
-                                            <div class="team-description">
-                                                <!-- Title -->
-                                                <h4>Due Stive</h4>
-                                                <!-- Description -->
-                                                <h5>Founder</h5>
-                                                <!-- Paragraph -->
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries but also the leap into electronic typesetting remaining essentially unchanged It was popularised in the with the release.</p>
-
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Education - 48%</span>
-                                                    <label>
-                                                        <span style="width: 48%"></span>
-                                                    </label>
-                                                </div>
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Experience - 75%</span>
-                                                    <label>
-                                                        <span style="width: 75%"></span>
-                                                    </label>
-                                                </div>
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Intelligence - 68%</span>
-                                                    <label>
-                                                        <span style="width: 68%"></span>
-                                                    </label>
-                                                </div>
-
-                                                <!-- Social icons -->
-                                                <div class="site-team-social">
-                                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                                    <a href="#"><i class="fa fa-google-plus"></i></a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide">
-
-                                    <!-- Bootstrap inner columns -->
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-5">
-                                            <!-- Image -->
-                                            <figure><img src="images/team4.jpg" alt="User"></figure>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-7">
-                                            <div class="team-description">
-                                                <!-- Title -->
-                                                <h4>Jhon Due Stive</h4>
-                                                <!-- Description -->
-                                                <h5>Founder & CEO</h5>
-                                                <!-- Paragraph -->
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries but also the leap into electronic typesetting remaining essentially unchanged It was popularised in the with the release.</p>
-
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Education - 98%</span>
-                                                    <label>
-                                                        <span style="width: 98%"></span>
-                                                    </label>
-                                                </div>
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Experience - 75%</span>
-                                                    <label>
-                                                        <span style="width: 75%"></span>
-                                                    </label>
-                                                </div>
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Intelligence - 98%</span>
-                                                    <label>
-                                                        <span style="width: 98%"></span>
-                                                    </label>
-                                                </div>
-
-                                                <!-- Social icons -->
-                                                <div class="site-team-social">
-                                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                                    <a href="#"><i class="fa fa-google-plus"></i></a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <div class="swiper-slide">
-
-                                    <!-- Bootstrap inner columns -->
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-5">
-                                            <!-- Image -->
-                                            <figure><img src="images/team5.jpg" alt="User"></figure>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-7">
-                                            <div class="team-description">
-                                                <!-- Title -->
-                                                <h4>Jhon Due Mata</h4>
-                                                <!-- Description -->
-                                                <h5>Founder & CEO</h5>
-                                                <!-- Paragraph -->
-                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries but also the leap into electronic typesetting remaining essentially unchanged It was popularised in the with the release.</p>
-
-
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Education - 68%</span>
-                                                    <label>
-                                                        <span style="width: 68%"></span>
-                                                    </label>
-                                                </div>
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Experience - 45%</span>
-                                                    <label>
-                                                        <span style="width: 45%"></span>
-                                                    </label>
-                                                </div>
-                                                <!-- Progress -->
-                                                <div class="site-team-progress">
-                                                    <span>Intelligence - 88%</span>
-                                                    <label>
-                                                        <span style="width: 88%"></span>
-                                                    </label>
-                                                </div>
-
-                                                <!-- Social icons -->
-                                                <div class="site-team-social">
-                                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                                    <a href="#"><i class="fa fa-google-plus"></i></a>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-                                </div>
+                         
+                
                                 <div class="swiper-slide">
 
                                     <!-- Bootstrap inner columns -->
@@ -977,10 +501,7 @@
                             <ul class="swiper-wrapper">
                                 <li class="swiper-slide" style="background-image:url(images/team-thumb1.jpg)"></li>
                                 <li class="swiper-slide" style="background-image:url(images/team-thumb2.jpg)"></li>
-                                <li class="swiper-slide" style="background-image:url(images/team-thumb3.jpg)"></li>
-                                <li class="swiper-slide" style="background-image:url(images/team-thumb4.jpg)"></li>
-                                <li class="swiper-slide" style="background-image:url(images/team-thumb5.jpg)"></li>
-                                <li class="swiper-slide" style="background-image:url(images/team-thumb6.jpg)"></li>
+                             
                             </ul>
                         </div>
                         <!-- End thumbnail -->
@@ -1014,17 +535,12 @@
                         <div class="site-box">
 
                             <!-- H1 heading -->
-                            <h1>Like to boost your business?<br>
+                            <h1>
                                 Let’s get in touch with us right now!!</h1>
 
                             <!-- Bootstrap inner columns -->
                             <div class="row">
                                 <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-offset-2">
-
-                                    <!-- Paragraph -->
-                                    <p>Lorem Ipsum is simply dummy text of therinting and typeseing
-                                        industry Lorem sum haseen the industry's standard dummy
-                                        text ever since the when aning.</p>
 
                                 </div>
                                 <div class="col-xs-12">
@@ -1033,11 +549,11 @@
                                     <a href="tel:11234567890" class="theme-btn">
                                         <!-- Icon -->
                                         <figure><i class="fa fa-phone"></i></figure>
-                                        +1 123.456.7890
+                                        080-23350112
                                     </a>
 
                                     <!-- Button -->
-                                    <a href="mailto:support@gmail.com" class="theme-btn">
+                                    <a href="mailto:basavabedcollege@gmail.com" class="theme-btn">
                                         <!-- Icon -->
                                         <figure><i class="fa fa-envelope"></i></figure>
                                         Email us Now
@@ -1091,82 +607,6 @@
         </div>
         <!-- End tweets -->
 
-        <!-- Site Contact -->
-        <div id="contact" class="site-contact site-white-section">
-
-            <!-- Bootstrap -->
-            <!-- Map and location container -->
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
-                        <div class="left">
-                            <!-- Contact information -->
-                            <div class="site-contact-info">
-
-                                <!-- H1 heading -->
-                                <h1>Have new project ?</h1>
-
-                                <!-- H2 heading -->
-                                <h2>Contact us</h2>
-                                <!-- Box -->
-                                <div class="site-box">
-                                    <!-- Icon -->
-                                    <figure><i class="fa fa-map-marker"></i></figure>
-                                    <!-- Location -->
-                                    <h4> Visit our office @ </h4>
-                                    <a target="_blank" href="#">
-                                        125 Business, Evenue, Huston, USA
-                                    </a>
-                                </div>
-                                <!-- End box -->
-
-                                <!-- Box -->
-                                <div class="site-box">
-                                    <!-- Icon -->
-                                    <figure><i class="fa fa-phone"></i></figure>
-                                    <!-- Number -->
-                                    <h4> Call us on </h4>
-                                    <a href="tel:19876543213">+1 987 654 3213</a>
-                                </div>
-                                <!-- End box -->
-
-                                <!-- Box -->
-                                <div class="site-box odd">
-                                    <!-- Icon -->
-                                    <figure><i class="fa fa-envelope"></i></figure>
-                                    <!-- Mail -->
-                                    <h4> Message us on </h4>
-                                    <a href="mailto:support@gmail.com">support@gmail.com</a>
-                                </div>
-                                <!-- End box -->
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
-                        <div class="right">
-                            <!-- Google map show using API -->
-                            <div class="site-google-map" id="site-map"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-            <!-- End map and location container -->
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-
-
-
-                    </div>
-                </div>
-            </div>
-            <!-- End bootstrap -->
-
-        </div>
         <!-- End quick support -->
 
         <!-- Footer -->

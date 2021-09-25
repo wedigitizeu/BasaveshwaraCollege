@@ -2,13 +2,13 @@
 <div class="container">
     <div class="row" >
         <div class="col-xs-12">
-
+           <img src="images/logo.jpg" width="1250" height="85" alt="Logo">  
             <!-- Logo -->
             <div class="site-logo">
                 <!-- Link -->
                 <a href="index.php">
                     <!-- Logo Image -->
-                      <img src="images/log.jpg" width="80" height="80" alt="Logo"> 
+             <!--         <img src="images/logo.jpg" width="1250" height="85" alt="Logo">   -->
                 </a>
             </div>
             <!-- End logo -->
