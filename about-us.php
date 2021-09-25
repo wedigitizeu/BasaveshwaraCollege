@@ -133,7 +133,7 @@
                         <h1>overview</h1>
 
                         <!-- H2 heading -->
-                        <h2>Get guarantee success with our advisors!
+                        <h2 style="color: white;">Get guarantee success with our advisors!
                         </h2>
 
                         <!-- Left colom -->
