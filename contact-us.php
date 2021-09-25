@@ -1,9 +1,13 @@
-<?php include_once('./config.php');?>
+<?php include_once('./config.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <?php include_once('./includes/head.php') ?>
+    
+    <!-- GOOGLE RECAPTCHA STARTED -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+   <!-- GOOGLE RECAPTCHA ENDS -->
 
     <style>
         #sendBtn {
@@ -14,7 +18,7 @@
         }
 
         .warnMessage {
-            color: red;
+            color: yellow;
             font-size: 14px;
             padding-top: 10px;
             font-weight: bold;
@@ -41,9 +45,9 @@
 </head>
 
 <body>
-<div id="loading">
-    <img id="loading-image" width="150px" src="./images/loading-buffering.gif" alt="Loading..." />
-</div>
+    <div id="loading">
+        <img id="loading-image" width="150px" src="./images/loading-buffering.gif" alt="Loading..." />
+    </div>
     <!-- Wrapper -->
     <div class="site-wrapper">
 
@@ -237,171 +241,168 @@
 
     </div>
 
+    <script>
+        function showErrorMessage(id, message, paraId) {
+            $(id).css('border', '2px solid red');
+            $(paraId).html(message);
+        }
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
     <script>
-       $(document).ready(function(){
-       alert("kk");
-        $('#loading').hide(); // hide reloader image
+        $(document).ready(function() {
+            
+            $('#loading').hide(); // hide reloader image
 
-            $("#name").keyup(function () {
-            var name = $("#name").val();
-            capitalizeFirstLetter = name.charAt(0).toUpperCase() + name.slice(1);
-            $("#name").val(capitalizeFirstLetter);
-        });
+            $("#name").keyup(function() {
+                var name = $("#name").val();
+                capitalizeFirstLetter = name.charAt(0).toUpperCase() + name.slice(1);
+                $("#name").val(capitalizeFirstLetter);
+            });
 
             $("#mobile").keyup(function() {
-                
-                let mobile =  $("#mobile").val();
-                let mobileRg='^[0-9]*$';
+
+                let mobile = $("#mobile").val();
+                let mobileRg = '^[0-9]*$';
                 // Mobile number always starts with  >= 6  digit 
                 //so do not allow mobile number, if its first number starts with 1 to 5     
-                if(parseInt(mobile.charAt(0) ) <=5){
+                if (parseInt(mobile.charAt(0)) <= 5) {
 
                     $("#mobile").val("");
                 }
-                
-                if(!mobile.match(mobileRg)){
+
+                if (!mobile.match(mobileRg)) {
 
                     $("#mobile").val("");
                 }
-            
+
             });
 
-          $("#form").on('submit',function(e){
-              e.preventDefault();
-        
-
-            var isFormValid = false;
-
-            var nameRegex = '^[A-Za-z ]{3,100}$';
-            var emailReg = '^[a-z0-9._%+-]+@[a-z0-9.-]+.[a-z]{2,4}$';
-            var mobileRg='^[0-9]{10}$';
-
-            var name = $("#name").val();
-            var email = $("#email").val();
-            var mobile = $("#mobile").val();
-            var message = $("#message").val();
-            var subject = $("#subject").val();
-
-            $(".warnMessage").each(function(){
-                $(this).html("");
-            });
-           
-            if (name.match(nameRegex)) {
-                isFormValid = true;
-                $("#nameWarning").html("");
-                $("#name").css('border', '1px solid #0078BC');
-            }
-
-            if (email.match(emailReg)) {
-                isFormValid = true;
-                $("#emailWarning").html("");
-                $("#email").css('border', '1px solid #0078BC');
-            }
-
-            if (mobile.match(mobileRg)) {
-                isFormValid = true;
-                $("#mobileWarning").html("");
-                $("#mobile").css('border', '1px solid #0078BC');
-            }
-
-            if (subject.match(nameRegex)) {
-                isFormValid = true;
-                $("#subjectWarning").html("");
-                $("#subject").css('border', '1px solid #0078BC');
-            }
-
-            if(message != ""){
-                isFormValid = true;
-                $("#messageWarning").html("");
-                $("#message").css('border', '1px solid #0078BC');
-            }
-
-            if (!name.match(nameRegex)) {
-                isFormValid = false;
-                var id = "#name";
-                var paraId = "#nameWarning";
-                var message = "<sup>*</sup> <?php echo NAME_ERROR_MSG; ?>";
-                showErrorMessage(id,message,paraId);
+            $("#form").on('submit', function(e) {
                 e.preventDefault();
-            } 
-
-            if (!email.match(emailReg)) {
-                isFormValid = false;
-                var id = "#email";
-                var paraId = "#emailWarning";
-                var message = "<sup>*</sup> <?php echo EMAIL_ERROR_MSG; ?>";
-                showErrorMessage(id,message,paraId);
-                e.preventDefault();   
-            }
 
 
-            if(!mobile.match(mobileRg)){
-                isFormValid = false;
-                var id = "#mobile";
-                var paraId = "#mobileWarning";
-                var message ="<sup>*</sup> <?php echo MOBILE_ERROR_MSG; ?>";
-                
-                showErrorMessage(id,message,paraId);
-                e.preventDefault();
-            }
-           
+                var isFormValid = false;
 
-            if(!subject.match(nameRegex)){
-                isFormValid = false;
-                var id = "#subject";
-                var paraId = "#subjectWarning";
-                var message = "<sup>*</sup> <?php echo SUBJECT_ERROR_MSG; ?>";
-                showErrorMessage(id,message,paraId);
-                e.preventDefault();
-            }
+                var nameRegex = '^[A-Za-z ]{3,100}$';
+                var emailReg = '^[a-z0-9._%+-]+@[a-z0-9.-]+.[a-z]{2,4}$';
+                var mobileRg = '^[0-9]{10}$';
 
-            if(message == ""){
-                isFormValid = false;
-                var id = "#message";
-                var paraId = "#messageWarning";
-                var message = "<sup>*</sup> <?php echo MESSAGE_ERROR_MSG; ?>";
-                showErrorMessage(id,message,paraId);
-                e.preventDefault();  
+                var name = $("#name").val();
+                var email = $("#email").val();
+                var mobile = $("#mobile").val();
+                var message = $("#message").val();
 
-            } else if(message.length < 15){
-                isFormValid = false;
-                var id = "#message";
-                var paraId = "#messageWarning";
-                var message = "<sup>*</sup> <?php echo MESSAGE_LENGTH_ERROR_MSG; ?>";
-                showErrorMessage(id,message,paraId);
-                e.preventDefault(); 
-                
-            } 
-            //{name:name,email:email,mobile:mobile,subject:subject,message:message},
+                $(".warnMessage").each(function() {
+                    $(this).html("");
+                });
 
-            if(isFormValid == true){
-                $('#loading').show(); // show reloader image
-                e.preventDefault();
-                $.ajax({
+                if (name.match(nameRegex)) {
+                    isFormValid = true;
+                    $("#nameWarning").html("");
+                    $("#name").css('border', '2px solid green');
+                }
+
+                if (email.match(emailReg)) {
+                    isFormValid = true;
+                    $("#emailWarning").html("");
+                    $("#email").css('border', '2px solid green');
+                }
+
+                if (mobile.match(mobileRg)) {
+                    isFormValid = true;
+                    $("#mobileWarning").html("");
+                    $("#mobile").css('border', '2px solid green');
+                }
+
+
+
+                if (message != "") {
+                    isFormValid = true;
+                    $("#messageWarning").html("");
+                    $("#message").css('border', '2px solid green');
+                }
+
+                if (!name.match(nameRegex)) {
+                    isFormValid = false;
+                    var id = "#name";
+                    var paraId = "#nameWarning";
+                    var message = "<sup>*</sup> <?php echo NAME_ERROR_MSG; ?>";
+                    showErrorMessage(id, message, paraId);
+                    e.preventDefault();
+                }
+
+                if (!email.match(emailReg)) {
+                    isFormValid = false;
+                    var id = "#email";
+                    var paraId = "#emailWarning";
+                    var message = "<sup>*</sup> <?php echo EMAIL_ERROR_MSG; ?>";
+                    showErrorMessage(id, message, paraId);
+                    e.preventDefault();
+                }
+
+
+                if (!mobile.match(mobileRg)) {
+                    isFormValid = false;
+                    var id = "#mobile";
+                    var paraId = "#mobileWarning";
+                    var message = "<sup>*</sup> <?php echo MOBILE_ERROR_MSG; ?>";
+
+                    showErrorMessage(id, message, paraId);
+                    e.preventDefault();
+                }
+
+
+
+
+                if (message == "") {
+                    isFormValid = false;
+                    var id = "#message";
+                    var paraId = "#messageWarning";
+                    var message = "<sup>*</sup> <?php echo MESSAGE_ERROR_MSG; ?>";
+                    showErrorMessage(id, message, paraId);
+                    e.preventDefault();
+
+                } else if (message.length < 15) {
+                    isFormValid = false;
+                    var id = "#message";
+                    var paraId = "#messageWarning";
+                    var message = "<sup>*</sup> <?php echo MESSAGE_LENGTH_ERROR_MSG; ?>";
+                    showErrorMessage(id, message, paraId);
+                    e.preventDefault();
+
+                }
+                //{name:name,email:email,mobile:mobile,subject:subject,message:message},
+
+                if (isFormValid == true) {
+                    $('#loading').show(); // show reloader image
+                    e.preventDefault();
+                    $.ajax({
                         type: "POST",
                         url: "process/contact-page-form.php",
-                        data: $("#form").serialize(), 
-                        dataType:"json",
+                        data: $("#form").serialize(),
+                        dataType: "json",
                         cache: false,
-                        success: function(data){
-                           // console.log(data);
-                           $('#loading').hide(); // show reloader image
+                        success: function(data) {
+                            // console.log(data);
+                            $('#loading').hide(); // show reloader image
                             var response = JSON.parse(JSON.stringify(data));
-                            if(response.status != 200){
+                            if (response.status != 200) {
                                 $('#loading').hide(); // show reloader image
-                               
+
                                 swal("Opps..!", response.message, "warning");
-                            } else{
+                            } else {
                                 swal("Thank you for getting in touch!", "One of our colleagues will get back in touch with you soon!", "success");
                             }
                         }
-                });
-            }
+                    });
+                }
 
-          });
-       });
-   </script>
+            });
+        });
+    </script>
 
 
 </body>
