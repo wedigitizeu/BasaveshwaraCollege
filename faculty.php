@@ -109,7 +109,7 @@
 
                                 <div class="content">
                                     <!-- H4 heading -->
-                                                                        <h4><a href="#">Pallavi P</a></h4>
+                                    <h4><a href="#">Pallavi P</a></h4>
 
                                     <h4><a href="#" style="color: black">Professor</a></h4>
 
@@ -138,8 +138,8 @@
 
                                 <div class="content">
                                     <!-- H4 heading -->
-                                    <h4><a href="#">VASUNDARA B M</a></h4>
-<h4><a href="#" style="color: black">ASSISTANT PROFESSOR</a></h4>
+                                    <h4><a href="#">Vasundara B M</a></h4>
+                                    <h4><a href="#" style="color: black">Assistant Professor</a></h4>
                                     <!-- Paragraph -->
                                     <p><h5>Qualification :</h5>MA,M.Ed</p>
 
@@ -166,8 +166,8 @@
                                 <div class="content">
                                     <!-- H4 heading -->
 
-                                    <h4><a href="#">GNANESHWARI  B R</a></h4>
-<h4><a href="#" style="color: black">ASSISTANT PROFESSOR</a></h4>
+                                    <h4><a href="#">Gnaneshwari B R</a></h4>
+                                    <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
                                     <p><h5>Qualification :</h5>M.Sc,M.Ed</p>
@@ -193,8 +193,8 @@
 
                                 <div class="content">
                                     <!-- H4 heading -->
-                                    <h4><a href="#">LINGARAJA R</a></h4>
-<h4><a href="#" style="color: black">ASSISTANT PROFESSOR</a></h4>
+                                    <h4><a href="#">Lingaraja R</a></h4>
+                                    <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
                                     <p><h5>Qualification :</h5> MA,M.Ed</p>
