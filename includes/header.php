@@ -23,14 +23,23 @@
 
         <!-- Navigation -->
         <nav class="site-nav">
-            <ul>
-                <!-- Active Item (Use the active class) -->
+        <!--     <ul>
                 <li class="active"><a href="index.php">Home</a></li>
                 <li><a href="about-us.php">About us</a></li>
                 <li><a href="course-detailes.php">B.ED Course</a></li>
                 <li><a href="#">Admission</a></li>
                 <li><a href="faculty.php">Faculties</a></li>
                 <li><a href="contact-us.php">contact us</a></li>
+            </ul> -->
+
+                    <ul>
+                <!-- Active Item (Use the active class) -->
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="about-us.php">About us</a></li>
+                <li><a href="#">B.ED Course</a></li>
+                <li><a href="#">Admission</a></li>
+                <li><a href="#">Faculties</a></li>
+                <li><a href="#">contact us</a></li>
             </ul>
         </nav>
         <!-- End Navigation -->
