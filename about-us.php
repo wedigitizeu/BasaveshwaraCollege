@@ -89,7 +89,7 @@
                                         <h3>Our Vision</h3>
 
                                         <!-- Paragraph -->
-                                        <p>
+                                        <p  style=" text-align: justify;">
                                           The vision of the college is "To bring out the best in man by providing value based need 
 based and career oriented education and create self reliant global citizens"
                                         </p>
@@ -127,7 +127,7 @@ based and career oriented education and create self reliant global citizens"
                         <!-- Left colom -->
                         <div class="overview">
                             <!-- Paragraph -->
-                            <p style="color:Orange    ">
+                            <p style="color:yellow; text-align: justify;">
 "The destiny of india is being shaped in the classrooms". It is the teacher who moulds and gives
 proper shape to the behavior of the students in the classrooms. The main aim of education is to create
 classless,colourless society in the nation. To produce citizens who have harmoneously blend of
@@ -233,7 +233,7 @@ BASAVESHWARA COLLEGE OF EDUCATION
                             <!-- paragraph -->
                             
                             <!-- list -->
-                            <ul style="color: black">
+                            <ul style="color: black; text-align: justify;">
                                 <li>To create the citizens, who have a harmoneous blead of traditional values and professionlal skills.</li>
                                 <li>To prepare a international standerd, competent truly dedicated and committed teacher trainees.</li>
                                 <li> To provide teacher trainees in using information teachnological, and modern facilities for effective 
@@ -268,6 +268,7 @@ teaching and learning process</li>
     
 
                  <?php include_once('./includes/utility-team.php') ?>
+ 
 
 
                  <?php include_once('./includes/callAction.php') ?>
@@ -309,8 +310,10 @@ teaching and learning process</li>
 
         <!-- End quick support -->
 
+
         <!-- Footer -->
         <footer>
+
             <?php include_once('./includes/footer.php') ?>
         </footer>
         <!-- End Footer -->
