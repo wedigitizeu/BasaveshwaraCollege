@@ -46,7 +46,7 @@
                         <div class="row">
                             <div class="col-xs-12 col-sm-6 col-sm-offset-3">
                                 <ul>
-                                    <li> <a href="index.html">Home » </a> </li>
+                                    <li> <a href="index.php">Home » </a> </li>
                                     <li>About us</li>
                                 </ul>
                        
@@ -86,7 +86,7 @@
                                 <div class="col-xs-12 col-sm-12 col-md-6">
                                     <div class="right-box">
                                         <!-- H3 heading -->
-                                        <h3>Our Vission</h3>
+                                        <h3>Our Vision</h3>
 
                                         <!-- Paragraph -->
                                         <p>
@@ -211,95 +211,6 @@ positive interaction.</p>
         </div>
         <!-- End Feature icon -->
 
-        <!-- Two colom full width -->
-        <div id="video" class="video-feature-section inner-page-dark-section">
-
-            <!-- Bootstrap -->
-            <div class="container-fluid">
-                <div class="row">
-
-                    <!-- Right colom -->
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-md-push-6">
-                        <div class="right-colom">
-                            <!-- H1 Heading -->
-                            <h1>Video presentation</h1>
-
-                            <!-- H2 heading -->
-                            <h2>We give you fast & better result
-                            </h2>
-
-                            <!-- advantage list -->
-                            <div class="advantage">
-                                <ul>
-                                    <!-- advantage list 1 -->
-                                    <li>
-                                        <!-- icon -->
-                                        <div class="advantage-icon"> <img src="images/advantage-icon1.png" alt="advantage1"> </div>
-
-                                        <!-- content -->
-                                        <div class="advantage-content">
-                                            <h4>Worldwide leadership</h4>
-
-                                            <p>Lorem Ipsum is simply dummy text of the print ing and typesetting industry Lorem.</p>
-                                        </div>
-
-                                    </li>
-
-                                    <!-- advantage list 2 -->
-                                    <li>
-                                        <!-- icon -->
-                                        <div class="advantage-icon"> <img src="images/advantage-icon2.png" alt="advantage1"> </div>
-
-                                        <!-- content -->
-                                        <div class="advantage-content">
-                                            <h4>Innovative ideas</h4>
-
-                                            <p>Lorem Ipsum is simply dummy text of the print ing and typesetting industry Lorem.</p>
-                                        </div>
-
-                                    </li>
-
-                                    <!-- advantage list 3 -->
-                                    <li>
-                                        <!-- icon -->
-                                        <div class="advantage-icon"> <img src="images/advantage-icon3.png" alt="advantage1"> </div>
-
-                                        <!-- content -->
-                                        <div class="advantage-content">
-                                            <h4>Guaranted success</h4>
-
-                                            <p>Lorem Ipsum is simply dummy text of the print ing and typesetting industry Lorem.</p>
-                                        </div>
-
-                                    </li>
-
-                                </ul>
-                                <!-- features list -->
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- left colom -->
-                    <div class="col-xs-12 col-sm-12 col-md-6 col-md-pull-6 no-padding ">
-
-                        <!-- image -->
-                        <div class="customsection">
-                            <div class="video-box circle-ripple">
-                                <a class="bla-1 " href="https://www.youtube.com/watch?v=1iIZeIy7TqM"> <i class="fa fa-play video-play-btn "></i>
-                                </a>
-                                <a class="bla-1" href="https://vimeo.com/155813398" style="display:none;">Vimeo video </a>
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <!-- End Bootstrap -->
-
-        </div>
-        <!-- End Two colom full width  -->
-
         <!-- Two colom full width 2 -->
         <div id="two-colom" class="two-colom-section inner-page-grey-section">
 
@@ -368,7 +279,7 @@ teaching and learning process</li>
                  
 
                         <!-- H2 heading -->
-                        <h2>Messages From CEO & Principle</h2>
+                        <h2>Messages From CAO & Principle</h2>
 
                     </div>
                     <div class="col-xs-12 col-md-10 col-md-push-2">
@@ -459,7 +370,7 @@ from the rest.</p>
                                                 <!-- Title -->
                                                 <h4>Mr Vishwanath</h4>
                                                 <!-- Description -->
-                                                <h5>Ceo,(cheif administrative officer)</h5>
+                                                <h5>CAO,(cheif administrative officer)</h5>
                                                 <!-- Paragraph -->
                                                 <p style="color: black">
 According to new education policy "No country can raise 
@@ -543,55 +454,8 @@ education in bangalore.</p>
         </div>
         <!-- End team -->
 
-        <!-- Call to action -->
-        <div class="site-call-to-action">
+                 <?php include_once('./includes/callAction.php') ?>
 
-            <!-- Bootstrap -->
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-
-                        <!-- Box -->
-                        <div class="site-box">
-
-                            <!-- H1 heading -->
-                            <h1>
-                                Let’s get in touch with us right now!!</h1>
-
-                            <!-- Bootstrap inner columns -->
-                            <div class="row">
-                                <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-offset-2">
-
-                                </div>
-                                <div class="col-xs-12">
-
-                                    <!-- Button -->
-                                    <a href="tel:11234567890" class="theme-btn">
-                                        <!-- Icon -->
-                                        <figure><i class="fa fa-phone"></i></figure>
-                                        080-23350112
-                                    </a>
-
-                                    <!-- Button -->
-                                    <a href="mailto:basavabedcollege@gmail.com" class="theme-btn">
-                                        <!-- Icon -->
-                                        <figure><i class="fa fa-envelope"></i></figure>
-                                        Email us Now
-                                    </a>
-
-                                </div>
-                            </div>
-
-                        </div>
-                        <!-- End box -->
-
-                    </div>
-                </div>
-            </div>
-            <!-- End Bootstrap -->
-
-        </div>
-        <!-- End call to action -->
 
         <!-- Tweets -->
         <div class="site-tweets">
