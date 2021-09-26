@@ -1,33 +1,33 @@
  
             <p style="text-align: center;">
-            <a href="tel:080-23350112">
+            <a href="tel:<?php  echo LANDLINE_NUMBER ?>">
                 <!-- Icon -->
                 <i class="fa fa-phone"></i>
                 <!-- Text -->
-                <span>080-23350112</span>
+                <span><?php  echo LANDLINE_NUMBER ?></span>
             </a>
             <!-- Right Section -->
 
-            <a href="tel:+91 7019131012">
+            <a href="tel:<?php echo MOBILE_NUMBER ?>">
                 <!-- Icon -->
                 <i class="fa fa-phone"></i>
                 <!-- Text -->
-                <span>7019131012</span>
+                <span><?php echo MOBILE_NUMBER ?></span>
             </a>
 
         
-            <a href="mailto:basavabedcollege@gmail.com"  >
+            <a href="mailto:<?php echo OFFICIAL_GMAIL?>"  >
                 <!-- Icon -->
                 <i class="fa fa-envelope"></i>
                 <!-- Text -->
-                <span>basavabedcollege@gmail.com</span>
+                <span><?php echo OFFICIAL_GMAIL?></span>
             </a>
 </p>
 
                 <address style="text-align: center; color: white">
                     Address : 
-                    Basaveshwara college of education,
-                    14th main, Vijayanagar Bangalore-560040
+                   <?php echo ADDRESS_LINE1;?> <br>
+                   <?php echo ADDRESS_LINE2 ;?>
                 </address>
             </div>
 

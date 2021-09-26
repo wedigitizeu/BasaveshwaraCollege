@@ -32,21 +32,18 @@ define("COMPANY_FOOTER_LOGO","img/capfrontlogo.jpg");
 
 // CONTACT INFO STARTS  
 
-define("CAPFRONT_OFFICIAL_EMAIL" ,"info@capfront.in");
-define("CAPFRONT_GMAIL_EMAIL", "capfront@gmail.in");
-define("CAPFRONT_LANDLINE_NUMBER" , "080 4812 6351");
 
+define("OFFICIAL_GMAIL", "basavabedcollege@gmail.com");
+define("LANDLINE_NUMBER" , "080-23350112");
+define("MOBILE_NUMBER"," 7019131012");
+ 
 // CONTACT INFO ENDS
 
 // COMPANY ADDRESS STARTS
 
-define("ADDRESS_LINE1","No. 1, Second Floor");
-define("ADDRESS_LINE2","Old Airport Road, Domlur Layout,");
-define("ADDRESS_LINE3","Near Domlur Post Office");
-define("ADDRESS_LINE4","Near Domlur Post Office"); 
-define("CITY","Bangalore");
-define("PINCODE","560071");
-define("STATE","Karanataka");
+define("ADDRESS_LINE1","Basaveshwara college of education,");
+define("ADDRESS_LINE2","14th main, Vijayanagar Bangalore-560040 Karnataka ");
+
 
 // COMPANY ADDRESS ENDS 
 
