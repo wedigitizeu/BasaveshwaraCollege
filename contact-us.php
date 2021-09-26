@@ -151,52 +151,9 @@
                         <!-- Site box -->
                         <div class="site-box">
                             <!-- H3 Heading -->
-                            <h3>New York Office</h3>
+                           
                             <!-- 3 colom -->
-                            <div class="inner">
-
-                                <!-- adress -->
-                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                                    <div class="ttl">
-                                        <!-- Icon -->
-                                        <figure><i class="fa fa-map-marker"></i></figure>
-                                        <!-- Location -->
-                                        <h4> Location </h4>
-                                    </div>
-                                    <a class="adress" target="_blank" href="#">
-                                        158 Corporate avenue, South pol New York, USA
-                                    </a>
-                                </div>
-
-                                <!-- phone -->
-                                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                                    <div class="ttl">
-                                        <!-- Icon -->
-                                        <figure><i class="fa fa-phone"></i></figure>
-                                        <!-- Location -->
-                                        <h4> Call us </h4>
-                                    </div>
-                                    <div class="clearfix"> </div>
-                                    <a class="call" href="tel:19876543213">+1 987 654 3213</a>
-                                    <div class="clearfix"> </div>
-                                    <a class="call" href="tel:19876543213">+1 123 456 7890</a>
-                                </div>
-
-                                <!-- email -->
-                                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                                    <div class="ttl mail">
-                                        <!-- Icon -->
-                                        <figure><i class="fa fa-envelope"></i></figure>
-                                        <!-- Location -->
-                                        <h4> Email us </h4>
-                                    </div>
-                                    <div class="clearfix"> </div>
-                                    <a class="email" href="mailto:contact@corbiz.com">contact@corbiz.com</a>
-                                    <div class="clearfix"> </div>
-                                    <a class="email" href="mailto:info@corbiz.com">info@corbiz.com</a>
-                                </div>
-
-                            </div>
+                            
 
                             <!-- Form -->
                             <div class="col-xs-12 col-sm-12 col-md-6 no-right-padding">
