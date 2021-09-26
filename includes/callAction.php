@@ -21,14 +21,14 @@
                                 <div class="col-xs-12">
 
                                     <!-- Button -->
-                                    <a href="tel:11234567890" class="theme-btn">
+                                    <a href="tel: <?php echo LANDLINE_NUMBER ?>" class="theme-btn">
                                         <!-- Icon -->
                                         <figure><i class="fa fa-phone"></i></figure>
-                                        080-23350112
+                                       <?php echo LANDLINE_NUMBER ?>
                                     </a>
 
                                     <!-- Button -->
-                                    <a href="mailto:basavabedcollege@gmail.com" class="theme-btn">
+                                    <a href="mailto: <?php echo OFFICIAL_GMAIL ?>" class="theme-btn">
                                         <!-- Icon -->
                                         <figure><i class="fa fa-envelope"></i></figure>
                                         Email us Now
