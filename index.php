@@ -187,11 +187,12 @@
                                     </figure>
 
                                     <!-- H3 heading -->
-                                    <h3>Creative Ideas</h3>
+                                    <h3>Latest news</h3>
 
                                     <!-- Paragraph -->
-                                    <p>
-                                        Lorem Ipsum is simply dummy of thetin gand typeseing industry Lorem Ipsum been industry standard.
+                                                                       <p style="color: red">
+ <marquee direction="up">
+                                        Lorem Ipsum is simply dummy of thetin gand typeseing industry Lorem Ipsum been industry standard.</marquee>
                                     </p>
                                     
                                     <!-- Read more -->
@@ -218,10 +219,10 @@
                                     </figure>
 
                                     <!-- H3 heading -->
-                                    <h3>Budget friendly</h3>
+                                    <h3>Admission Open</h3>
 
                                     <!-- Paragraph -->
-                                    <p>
+                                    <p style="color: black">
                                         Lorem Ipsum is simply dummy of thetin gand typeseing industry Lorem Ipsum been industry standard.
                                     </p>
                                     
@@ -249,7 +250,7 @@
                                     </figure>
 
                                     <!-- H3 heading -->
-                                    <h3>24/7 Support</h3>
+                                    <h3>Support And Enquiry </h3>
 
                                     <!-- Paragraph -->
                                     <p>

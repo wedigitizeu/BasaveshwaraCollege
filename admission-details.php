@@ -39,7 +39,7 @@
             <div class="col-xs-12">
 
                 <!-- H2 heading -->
-                <h2>B.ED Cource</h2>
+                <h2>B.ED Admission</h2>
                 <!-- H1 Heading -->
                 <h1>Basaveshwara B.ED College</h1>
                 <!-- Bredcum links -->
@@ -47,7 +47,7 @@
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3">
                         <ul>
                             <li> <a href="index.php">Home » </a> </li>
-                            <li>B.ED Cource</li>
+                            <li>B.ED Admission</li>
                         </ul>
 
                     </div>
@@ -70,7 +70,7 @@
                 <div class="inner">
 
                     <!-- H3 heading -->
-                    <h3> B.ED Cource Details</h3>
+                    <h3>B.ED Admission Details</h3>
 
 
 
@@ -80,9 +80,7 @@
                    </div>
 
                    <!-- Paragraph -->
-                   <p style="color: black; text-align: justify;">                                                         B.ED two years programme of study spreads over four semesters with four term end 
-                    examinations. the successful completion of which would lead to the award of a
-                    bachelor's degree in education. The B.Ed. Program aims to train teachers for the schools in the government/private sector in India. The curriculum and evaluation systems adopted by the college are similar to those used in the typical Colleges of Education. Emphasis is given to the development of domain knowledge and teaching skills. They take foundational and experiential coursework to enable them to meet the students with linguistic, cultural, learning and behavioral diversity. Senior/Guest Lecturer for different kinds of seminar to improve students theoretical and presentation knowledge for their future
+                   <p style="color: black; text-align: justify;">                                                       B.Ed course is a two year Graduate Programme, is affiliated to Bangalore University and National Council for Teacher Education (NCTE); recognized by Government of India. The college was accredited by NAAC, National Assessment and Accreditation Council.
                 </p>
 
 
@@ -96,39 +94,41 @@
                 <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
                    <div class="right">
                     <!-- H3 heading -->
-                    <h3>course </h3>
+                    <h3>Duration of the course </h3>
                     <!-- Paragraph -->
-                     <p style="color: black;text-align: justify;">A course is essantially a constituent of a program and may be a composite of 
-                        several subject matter to be covered in a semester.
+                     <p style="color: black;text-align: justify;">The Duration of study for B.Ed. CBCS Semester Programme shall extend over a period of two years with four semesters of total 96 credits.  The first semester shall be 24 credits, second semester shall be for 24 credits, third semester shall be for 24 credits and the fourth semester shall be for 24 credits. Medium of Instruction:
+The Medium of Instruction is either English or Kannada.
                     </p>
 
                     <!-- box -->
                     <div class="point-box">
                         <!-- H4 heading -->
                         <h4>
-                        hard core courses </h4>
+                        Methods of teaching  </h4>
                         <!-- Paragraph -->
-                        <p style="color: black;text-align: justify;">compulsory subjects of study which support the main dicipline.
+                        <p style="color: black;text-align: justify;">Each student teacher shall take two content cum methods of teaching school subjects as per the combinations given below.
+English & History<br>
+Kannada & History<br>
+English & Biology<br>
+Physics & Mathematics<br>
+Biology & Chemistry<br>
+Chemistry & Mathematics<br>
+Hindi & History<br>
+English & Geography<br>
                         </p>
                     </div>
 
                     <!-- box -->
-                    <div class="point-box">
-                        <!-- H4 heading -->
-                        <h4>soft core courses </h4>
-                        <!-- Paragraph -->
-                       <p style="color: black;text-align: justify;">An option for the candidate to choose a course from a pool of courses offered by the
-                            respectiv B.ED. colleges of bangalore university. Each candidate should choose a 
-                            combination of two soft core courses for the B.ED. programme from the combinations
-                            offered by the respective colleges.
-                        </p>
-                    </div>
+            
                     <div class="point-box">
                         <!-- H4 heading -->
                         <h4>optional courses</h4>
                         <!-- Paragraph -->
                         <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
                             and offered by the respective B.Ed colleges.
+                            Guidance and Counselling.<br>
+Value Education.<br>
+Education for Peace.
                         </p>
                     </div>
                 </div>
@@ -157,27 +157,40 @@
     <div class="inner">
 
         <!-- H3 heading -->
-        <h3>Grade</h3>
+        <h3>Allocation of seats </h3>
         <!-- Paragraph -->
-        <p style="color: black;text-align: justify;">Grade means a letter symbol (ABC) which indicates the broad level of performance of a
-student in an answer, course, semister, and programme.
+        <p style="color: black;text-align: justify;">
+            <li>1 College shall admit all the candidates allotted by the Government of karnataka.</li>
+            <li>For filling the other seats the respective colleges shall select the candidates
+following eligibility criteria envisaged in &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regulations 1.1 to 1.5.</li>
+            <li> The college should get the selected cand
+idates both under Government and 
+management quota within the last date fixed &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;for admission by the Banglore
+Univeresity.
+</li>
+<li> The total intake of all B.ED. colleges shall be as fixed by NCTE/Government of 
+karnataka from time to time.
+ 
+</li>
         </p>
 
         <div class="row">
             <!-- Left colom -->
-                          <h3>ACTIVITIES</h3>
+                          <h3>
+Eligibility for admission</h3>
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
           
                 <!-- list  -->
                 <div class="list">
                     <ul style="color: black; text-align: justify;">
-                        <li> Evaluation of Lesson Plans – 5 in each method
-</li>
-                        <li>Preparation, administration and analysis of diagnostic tests followed by remedial teaching in any one soft-core course </li>
-                        <li>Classroom based project in any one soft-core course
-</li>
-<li>Teaching skills (6 Skills- 3 skills in each method for practice)
-</li>
+                        <li> Acitizen of india who has passed any bachelor's degree examination of
+bangalore University or any University in india or abroad recognized as 
+equivalent through 10+2+3/4/5 pattern of education whohas obtained 30% of 
+marks in agreegate of all the subjects he/she has studied for degree is eligible for 
+B.ED, programme.</li>
+                        <li>The candidate with less than 50% agreegate in the degree, but a masters degree 
+with 50% is also eligible for B.ED. programme. </li>
+
                     </ul>
                 </div>
             </div>
@@ -188,13 +201,11 @@ student in an answer, course, semister, and programme.
                 <div class="list">
                     <ul style="color: black; text-align: justify;">
          
-                                             <li>Regular classroom teaching. Delivery of 50 Lessons ( 25 in each method) – supervision -6 in each method
-   </li>
-                        <li>Observation of 20 Lessons in any subject& maintain of record
- </li>
- <li>Practical Examination – Two lessons – One in each Soft core course</li>
- <li>Observation of demonstration lesson and video lesson(one in each method)
-</li>
+                                             <li> In the case of SC/ST , calegory -1 and physically challenged student 45% marks 
+in aggregate of all the subjects he/she has studided for degree course  or 45%, in 
+post graduation  </li>
+                        <li>Acanditate for the admission to degree of education (B.Ed.) must fulfill the 
+eligility criteria as per the directives of Govt. of karnataka from time to time. </li>
                     </ul>
                 </div>
             </div>
