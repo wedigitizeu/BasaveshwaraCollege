@@ -111,7 +111,7 @@
                                     <!-- H4 heading -->
                                     <h4><a href="#">Pallavi P</a></h4>
 
-                                    <h4><a href="#" style="color: black">Professor</a></h4>
+                                    <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
                                     <p><h5>Qualification :</h5> M.sc,M.ed,M.phil,SLET</p>
