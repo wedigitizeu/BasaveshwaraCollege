@@ -6,21 +6,21 @@
             <div class="row">
                 <div class="col-xs-12">
 
-                    <h1>Our Cases</h1>
+                    <h1>Gallary</h1>
 
                     <!-- H2 heading -->
-                    <h2>We have successfully<br>
-						completed 500+ projects</h2>
+                    <h2><br>
+						</h2>
 
                     <!-- Tabs Buttons -->
                     <ul class="site-portfolio-tabs">
 
                         <!-- Active Item -->
                         <li class="active" data-filter="all">All</li>
-                        <li data-filter="web-design">Web Design</li>
-                        <li data-filter="web-development">Web Development</li>
-                        <li data-filter="logo-design">Logo Design</li>
-                        <li data-filter="branding">Branding</li>
+                        <li data-filter="web-design">Group</li>
+                        <li data-filter="web-development">Computer class</li>
+                        <li data-filter="logo-design">College</li>
+                        <li data-filter="branding">Activity</li>
                     </ul>
 
                     <!-- Bootstrap inner row -->
@@ -40,8 +40,8 @@
                                         <a class="venobox" href="images/portfolio-1.jpg"  data-gall="myGallery">
                                             <i class="fa fa-plus"></i>  <!-- Icon -->
                                         </a>
-                                        <h5>Web Development</h5>    <!-- heading -->
-                                        <h6>Sub Heading</h6> <!-- Sub heading -->
+                                        <h5>Group</h5>    <!-- heading -->
+                                        <h6>Group</h6> <!-- Sub heading -->
                                     </div>
                                 </div>
                             </div>
@@ -57,8 +57,8 @@
                                         <a class="venobox" href="images/portfolio-2.jpg" data-gall="myGallery">
                                             <i class="fa fa-plus"></i>  <!-- Icon -->
                                         </a>
-                                        <h5>Web Development</h5>    <!-- heading -->
-                                        <h6>Web Design</h6> <!-- Sub heading -->
+                                        <h5>Group</h5>    <!-- heading -->
+                                        <h6>Group</h6> <!-- Sub heading -->
                                     </div>
                                 </div>
                             </div>
@@ -74,8 +74,8 @@
                                         <a class="venobox" href="images/portfolio-3.jpg" data-gall="myGallery">
                                             <i class="fa fa-plus"></i>  <!-- Icon -->
                                         </a>
-                                        <h5>Branding</h5>    <!-- heading -->
-                                        <h6>Sub Heading</h6> <!-- Sub heading -->
+                                        <h5>College</h5>    <!-- heading -->
+                                        <h6>College</h6> <!-- Sub heading -->
                                     </div>
                                 </div>
                             </div>
@@ -91,8 +91,8 @@
                                         <a class="venobox" href="images/portfolio-5.jpg" data-gall="myGallery">
                                             <i class="fa fa-plus"></i>  <!-- Icon -->
                                         </a>
-                                        <h5>Branding</h5>    <!-- heading -->
-                                        <h6>Sub Heading</h6> <!-- Sub heading -->
+                                        <h5>Activity</h5>    <!-- heading -->
+                                        <h6>Activity</h6> <!-- Sub heading -->
                                     </div>
                                 </div>
                             </div>
@@ -108,8 +108,8 @@
                                         <a class="venobox" href="images/portfolio-4.jpg" data-gall="myGallery">
                                             <i class="fa fa-plus"></i>  <!-- Icon -->
                                         </a>
-                                        <h5>Logo Design</h5>    <!-- heading -->
-                                        <h6>Sub Heading</h6> <!-- Sub heading -->
+                                        <h5>Activity</h5>    <!-- heading -->
+                                        <h6>Activity</h6> <!-- Sub heading -->
                                     </div>
                                 </div>
                             </div>
@@ -125,8 +125,8 @@
                                         <a class="venobox" href="images/portfolio-6.jpg" data-gall="myGallery">
                                             <i class="fa fa-plus"></i>  <!-- Icon -->
                                         </a>
-                                        <h5>Branding</h5>    <!-- heading -->
-                                        <h6>Sub Heading</h6> <!-- Sub heading -->
+                                        <h5>Activity</h5>    <!-- heading -->
+                                        <h6>Activity</h6> <!-- Sub heading -->
                                     </div>
                                 </div>
                             </div>

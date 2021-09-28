@@ -253,7 +253,7 @@ teaching and learning process</li>
 
                         <!-- image -->
                         <div class="customsection-2">
-                            <img src="images/about-half-width-bg.jpg" alt="image">
+                            <img src="images/images/b.jpg" alt="image">
                         </div>
                     </div>
 

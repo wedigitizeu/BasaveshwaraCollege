@@ -43,7 +43,9 @@
                                             class and lower-middle-class society, establishing jobs oriented college is immensely useful and purposeful.
                                             necessary infrastructure is meticulously created, to enable students to get a quality education.
                                             dedicated principal and experienced lecturers are eagerly awaiting
-                                            to give necessary and meaningful education to the student-teacher. 
+                                            to give necessary and meaningful education to the student-teacher....<br>
+                                                                <a href="#" class="theme-btn">Load More</a>
+ 
                                         </p>
 
 
@@ -98,7 +100,9 @@
                                             According to the new education policy, "No country can raise above the levels of its teachers". "The destiny of the nation is being shaped in its classrooms." the main aim of education is must have life leading, character-forming, and produce ideal citizens to the country.
                                             according to Swami Vivekananda, "Education is the manifestation of 
                                             perfection already reached in man" keeping this vision as guiding force Sri
-                                        Jagat Jyoti Basaveshvara Sahakara Sangha (N) is the only one biggest cooperative educational organization established by a prestigious college of education in Bangalore.</p>
+                                        Jagat Jyoti Basaveshvara Sahakara Sangha (N) is the only one biggest cooperative educational organization established by a prestigious college of education in Bangalore....
+                                                       <br> <a href="#" class="theme-btn">Load More</a>
+</p>
 
 
                                         <!-- Progress -->
@@ -155,9 +159,9 @@
 
 
                                             The activities that you find on this campus are unquestionable enlarging 
-                                            the quest for the development of knowledge and individual skill which itself is an 
-                                            example of the apparent distinguish the Basaveshwara college of education
-                                            from the rest.
+                                            the quest for the development of knowledge and individual skill...
+                                                              <br>  <a href="#" class="theme-btn">Load More</a>
+
                                         </p>
 
 
@@ -225,6 +229,7 @@
         </div>
 
     </div>
+
 </div>
 <!-- End Bootstrap -->
 
