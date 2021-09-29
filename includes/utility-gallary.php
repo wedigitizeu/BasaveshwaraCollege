@@ -27,11 +27,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g1.jpg" alt="Image">
+                                <img src="images/images/g1.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g1.jpg"  data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g1.JPG"  data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -43,11 +43,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g2.jpg" alt="Image">
+                                <img src="images/images/g2.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g2.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g2.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -59,11 +59,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g4.jpg" alt="Image">
+                                <img src="images/images/g4.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g4.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g4.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -75,11 +75,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g5.jpg" alt="Image">
+                                <img src="images/images/g5.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g5.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g5.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -91,11 +91,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g7.jpg" alt="Image">
+                                <img src="images/images/g7.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g7.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g7.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -107,11 +107,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g6.jpg" alt="Image">
+                                <img src="images/images/g6.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g6.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g6.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -123,11 +123,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g9.jpg" alt="Image">
+                                <img src="images/images/g9.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g9.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g9.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -138,11 +138,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g10.jpg" alt="Image">
+                                <img src="images/images/g10.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g10.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g10.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -153,11 +153,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g13.jpg" alt="Image">
+                                <img src="images/images/g13.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g13.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g13.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -169,11 +169,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g17.jpg" alt="Image">
+                                <img src="images/images/g17.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g17.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g17.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -184,11 +184,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g16.jpg" alt="Image">
+                                <img src="images/images/g16.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g16.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g16.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
@@ -199,11 +199,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g14.jpg" alt="Image">
+                                <img src="images/images/g14.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g14.jpg" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/g14.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
