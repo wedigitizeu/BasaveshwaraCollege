@@ -78,7 +78,7 @@
                                     <div class="left-box">
                                         <!-- Figure -->
                                         <figure>
-                                            <img src="images/images/HDC_8606.jpg" alt="image">
+                                            <img src="images/images/HDC_8606.JPG" alt="image">
                                         </figure>
                                     </div>
                                 </div>

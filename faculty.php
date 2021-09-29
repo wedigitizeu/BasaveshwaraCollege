@@ -134,7 +134,7 @@
                             <div class="site-box">
 
                                 <!-- image -->
-                                <div class="service-image"> <img src="images/bs2.jpg" alt="image"> </div>
+                                <div class="service-image"> <img src="images/bs2.JPG" alt="image"> </div>
 
                                 <div class="content">
                                     <!-- H4 heading -->
@@ -161,7 +161,7 @@
                             <div class="site-box">
 
                                 <!-- image -->
-                                <div class="service-image"> <img src="images/bs3.jpg" alt="image"> </div>
+                                <div class="service-image"> <img src="images/bs3.JPG" alt="image"> </div>
 
                                 <div class="content">
                                     <!-- H4 heading -->
