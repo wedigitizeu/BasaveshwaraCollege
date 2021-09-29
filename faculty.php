@@ -20,7 +20,7 @@
         <header class="site-header" id="sticky-header">
             <?php include_once('./includes/header.php')?>
         </header>
-        <!-- End Header -->
+  
     </div>
 
     <!-- This section classes require for whole page sliders -->
