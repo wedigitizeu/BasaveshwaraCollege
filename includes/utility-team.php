@@ -27,7 +27,7 @@
                             <div class="row">
                                 <div class="col-xs-12 col-sm-5">
                                     <!-- Image -->
-                                    <figure><img src="images/BasaveshwaraCollege.png" alt="BasaveshwaraCollege"></figure>
+                                    <figure><img src="images/bs.png" alt="BasaveshwaraCollege"></figure>
                                 </div>
                                 <div class="col-xs-12 col-sm-7">
                                     <div class="team-description">
