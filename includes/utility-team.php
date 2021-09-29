@@ -27,7 +27,7 @@
                             <div class="row">
                                 <div class="col-xs-12 col-sm-5">
                                     <!-- Image -->
-                                    <figure><img src="images/bs.png" alt="BasaveshwaraCollege"></figure>
+                                    <figure><img src="images/bs.PNG" alt="BasaveshwaraCollege"></figure>
                                 </div>
                                 <div class="col-xs-12 col-sm-7">
                                     <div class="team-description">
@@ -207,7 +207,7 @@
                 <!-- Thumbnail -->
                 <div class="swiper-container thumbnail" id="team-thumbnails">
                     <ul class="swiper-wrapper">
-                      <li class="swiper-slide" style="background-image:url(images/BasaveshwaraCollege.png)"></li>
+                      <li class="swiper-slide" style="background-image:url(images/bs.PNG)"></li>
                       <li class="swiper-slide" style="background-image:url(images/Vishwanath.jpg)"></li>
                       <li class="swiper-slide" style="background-image:url(images/Reshma.jpg)"></li>
                       
