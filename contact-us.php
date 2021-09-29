@@ -186,7 +186,7 @@
             <!-- End contact box -->
 
             <!-- Footer -->
-            <footer>
+            <footer class="site-footer">
                 <?php include_once('./includes/footer.php') ?>
             </footer>
             <!-- End Footer -->

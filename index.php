@@ -189,7 +189,10 @@
                                     <div class="left-box">
                                         <!-- Figure -->
                                         <figure>
-                                            <img src="images/banner1.png" alt="image">
+                                            <img src="images/images/b10.jpg" alt="image">
+                                        </figure>
+                                            <figure>
+                                            <img src="images/images/b11.jpg" alt="image">
                                         </figure>
                                     </div>
                                 </div>
@@ -197,14 +200,15 @@
                                 <div class="col-xs-12 col-sm-12 col-md-6">
                                     <div class="right-box">
                                         <!-- H3 heading -->
-                                        <h3>Our Vision</h3>
+                                        <h3>About Us</h3>
 
                                         <!-- Paragraph -->
-                                        <p  style=" text-align: justify;">
-                                          The vision of the college is "To bring out the best in man by providing value based need 
-based and career oriented education and create self reliant global citizens"
+                                        <p  style=" text-align: justify; color: black;">
+                                         It is one of the Institution run by : Basaveshwara college of education,
+14th main, Vijayanagar Bangalore-560040 Karnataka.  This management is making lasting contribution in the field of professional education in order to inculcate the values in teachers in the present day set up. Our management is committed to society at large. The commitment of our management in promoting excellence in teacher education is reflected through its well equipped infrastructure such as well furnished class rooms, multi-purpose  hall and provisions for both indoor and outdoor games for all round development of future teachers.<br>The Basaveshwara B.Ed College is far sighted and provides a stimulating environment to learn. Our aim is to develop, “Best teachers through Teacher’s Training Institution by the best and efficient teaching faculties” and serve the State and Nation by producing the Best Student Community. The college is formed by Indian Values and Culture with MUTUAL RESPECT, INTEGRITY and TEAMWORK.
                                         </p>
     
+                    <a href="#" class="theme-btn">Load More</a>
 
                                     </div>
 
@@ -231,7 +235,7 @@ based and career oriented education and create self reliant global citizens"
                 <div class="inner">
 
                     <!-- H3 heading -->
-                    <h3>B.ED Admission Details</h3>
+                    <h3></h3>
 
 
             </div>
@@ -244,9 +248,9 @@ based and career oriented education and create self reliant global citizens"
                 <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
                    <div class="right">
                     <!-- H3 heading -->
-                    <h3>Duration of the course </h3>
+                    <h3>B.ED Admission Details </h3>
                     <!-- Paragraph -->
-                     <p style="color: black;text-align: justify;">The Duration of study for B.Ed. CBCS Semester Programme shall extend over a period of two years with four semesters of total 96 credits.  The first semester shall be 24 credits, second semester shall be for 24 credits, third semester shall be for 24 credits and the fourth semester shall be for 24 credits. Medium of Instruction:
+                     <p style="color: black;text-align: justify;"><b> Duration of the course :</b> The Duration of study for B.Ed. CBCS Semester Programme shall extend over a period of two years with four semesters of total 96 credits.  The first semester shall be 24 credits, second semester shall be for 24 credits, third semester shall be for 24 credits and the fourth semester shall be for 24 credits. Medium of Instruction:
 The Medium of Instruction is either English or Kannada.
                     </p>
 
@@ -283,9 +287,9 @@ Education for Peace.
             <div class="col-xs-12 col-sm-12 col-md-4 col-md-pull-8">
                 <!-- image -->
                 <div class="case-iamge">
-                    <figure> <img src="images/course5.jpg" alt="image"> </figure>
+                    <figure> <img src="images/images/BedCollege.jpg" alt="image"> </figure>
                     <figure> <img src="images/course2.jpg" alt="image"> </figure>
-                                        <figure> <img src="images/course4.jpg" alt="image"> </figure>
+                                        <figure> <img src="images/images/HDC_8662.jpg" alt="image"> </figure>
                                                         
 
 
