@@ -289,7 +289,7 @@ Education for Peace.
                 <div class="case-iamge">
                     <figure> <img src="images/images/BedCollege.jpg" alt="image"> </figure>
                     <figure> <img src="images/course2.jpg" alt="image"> </figure>
-                                        <figure> <img src="images/images/HDC_8662.jpg" alt="image"> </figure>
+                                        <figure> <img src="images/images/HDC_8662.JPG" alt="image"> </figure>
                                                         
 
 
