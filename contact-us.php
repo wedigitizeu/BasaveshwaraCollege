@@ -73,26 +73,25 @@
         <!-- End Slider -->
 
         <!-- Main banner -->
-        <div class="inner-page-main-banner contact-us">
+       <!-- Main banner -->
+        <div class="inner-page-main-banner about-us">
             <!-- Bootstrap -->
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
 
                         <!-- H2 heading -->
-                        <h2>Contact us</h2>
+                        <h2>COntact us</h2>
                         <!-- H1 Heading -->
-                        <h1>Get in touch</h1>
+                        <h1>Basaveshwara B.ED College</h1>
                         <!-- Bredcum links -->
                         <div class="row">
                             <div class="col-xs-12 col-sm-6 col-sm-offset-3">
                                 <ul>
-                                    <li> <a href="index.html">Home » </a> </li>
+                                    <li> <a href="index.php">Home » </a> </li>
                                     <li>Contact us</li>
                                 </ul>
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting indus orem Ipsum has been the industry's standard dummy.
-                                </p>
+                       
                             </div>
                         </div>
                     </div>
@@ -100,6 +99,7 @@
             </div>
             <!-- End bootstrap -->
         </div>
+        <!-- End Main banner -->
         <!-- End Main banner -->
 
         <!-- Dont remove this section, it's classes is nececery for swiper slider used in other sections-->
