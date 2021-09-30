@@ -94,13 +94,13 @@
                                         <!-- Title -->
                                         <h4>Mr Sasalu J Vishwanath</h4>
                                         <!-- Description -->
-                                        <h5>CAO,(cheif administrative officer)</h5>
+                                        <h5>CEO,Cheif Administrative Officer</h5>
                                         <!-- Paragraph -->
                                         <p style="color: black; text-align: justify;">
                                             According to the new education policy, "No country can raise above the levels of its teachers". "The destiny of the nation is being shaped in its classrooms." the main aim of education is must have life leading, character-forming, and produce ideal citizens to the country.
                                             according to Swami Vivekananda, "Education is the manifestation of 
                                             perfection already reached in man" keeping this vision as guiding force Sri
-                                        Jagat Jyoti Basaveshvara Sahakara Sangha (N) is the only one biggest cooperative educational organization established by a prestigious college of education in Bangalore....
+                                        JagaJyoti Basaveshvara Sahakara Sangha (N) is the only one biggest cooperative educational organization established by a prestigious college of education in Bangalore....
                                                        <br> <a href="#" class="theme-btn">Load More</a>
 </p>
 
