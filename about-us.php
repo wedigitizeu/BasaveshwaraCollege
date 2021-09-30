@@ -49,7 +49,7 @@
                                     <li> <a href="index.php">Home » </a> </li>
                                     <li>About us</li>
                                 </ul>
-                       
+
                             </div>
                         </div>
                     </div>
@@ -89,11 +89,11 @@
                                         <h3>Our Vision</h3>
 
                                         <!-- Paragraph -->
-                                        <p  style=" text-align: justify;">
-                                          The vision of the college is "To bring out the best in man by providing value based need 
-based and career oriented education and create self reliant global citizens"
+                                        <p style=" text-align: justify;">
+                                            The vision of the college is "To bring out the best in man by providing value based need
+                                            based and career oriented education and create self reliant global citizens"
                                         </p>
-    
+
 
                                     </div>
 
@@ -127,13 +127,13 @@ based and career oriented education and create self reliant global citizens"
                         <!-- Left colom -->
                         <div class="overview">
                             <!-- Paragraph -->
-                            <p style="color:yellow; text-align: justify;">
-"The destiny of india is being shaped in the classrooms". It is the teacher who moulds and gives
-proper shape to the behavior of the students in the classrooms. The main aim of education is to create
-classless,colourless society in the nation. To produce citizens who have harmoneously blend of
-traditional values professional skills and competent teachers, to the society. <span class="color-text"></span>  Keeping this in view shri
-jagajyothi Basaveswara sahakara sangha established prestigious college of education in the year 2005, by
-giving excellent modernised, technology oriented and would class education.</p>
+                            <p style="color:white; text-align: justify;">
+                                "The destiny of india is being shaped in the classrooms". It is the teacher who moulds and gives
+                                proper shape to the behavior of the students in the classrooms. The main aim of education is to create
+                                classless,colourless society in the nation. To produce citizens who have harmoneously blend of
+                                traditional values professional skills and competent teachers, to the society. <span class="color-text"></span> Keeping this in view shri
+                                jagajyothi Basaveswara sahakara sangha established prestigious college of education in the year 2005, by
+                                giving excellent modernised, technology oriented and would class education.</p>
 
                         </div>
 
@@ -160,9 +160,9 @@ giving excellent modernised, technology oriented and would class education.</p>
                             <!-- Heading -->
                             <h3 style="color: white">Responsibility</h3>
                             <!-- Paragraph -->
-                            <p>To provide value-base  education.
+                            <p>To provide value-base education.
 
-To promote communal harmony.</p>
+                                To promote communal harmony.</p>
                         </div>
                     </div>
 
@@ -172,10 +172,10 @@ To promote communal harmony.</p>
                             <!-- Icon -->
                             <figure> <img src="images/about-feature1.png" alt="image"> </figure>
                             <!-- Heading -->
-                            <h3  style="color: white">Quality Education</h3>
+                            <h3 style="color: white">Quality Education</h3>
                             <!-- Paragraph -->
                             <p>
-To impart quality education which moulds the holistic personality of the student. </p>
+                                To impart quality education which moulds the holistic personality of the student. </p>
                         </div>
                     </div>
 
@@ -185,7 +185,7 @@ To impart quality education which moulds the holistic personality of the student
                             <!-- Icon -->
                             <figure> <img src="images/about-feature3.png" alt="image"> </figure>
                             <!-- Heading -->
-                            <h3  style="color: white">Academic Excellence </h3>
+                            <h3 style="color: white">Academic Excellence </h3>
                             <!-- Paragraph -->
                             <p>To ignite the young minds inthe learning environment of high academic excellence.</p>
                         </div>
@@ -197,10 +197,10 @@ To impart quality education which moulds the holistic personality of the student
                             <!-- Icon -->
                             <figure> <img src="images/about-feature4.png" alt="image"> </figure>
                             <!-- Heading -->
-                            <h3  style="color: white">Adapt and Growth</h3>
+                            <h3 style="color: white">Adapt and Growth</h3>
                             <!-- Paragraph -->
                             <p> create a healthy atmosphere for learning and
-positive interaction.</p>
+                                positive interaction.</p>
                         </div>
                     </div>
 
@@ -220,31 +220,23 @@ positive interaction.</p>
 
                     <!-- left colom -->
                     <div class="col-md-6 col-sm-12 ">
-
-                        <div class="left-colom">
-                            <!-- H1 Heading -->
-                            <h1> OBJECTIVES</h1>
-
-                            <!-- H2 heading -->
-                            <h2>
-BASAVESHWARA COLLEGE OF EDUCATION
-                            </h2>
-
-                            <!-- paragraph -->
-                            
-                            <!-- list -->
+                        <h1> OBJECTIVES</h1>
+                        <h3>
+                            BASAVESHWARA COLLEGE OF EDUCATION
+                        </h3>
+                        
                             <ul style="color: black; text-align: justify;">
                                 <li>To create the citizens, who have a harmoneous blead of traditional values and professionlal skills.</li>
                                 <li>To prepare a international standerd, competent truly dedicated and committed teacher trainees.</li>
-                                <li> To provide teacher trainees in using information teachnological, and modern facilities for effective 
-teaching and learning process</li>
+                                <li> To provide teacher trainees in using information teachnological, and modern facilities for effective
+                                    teaching and learning process</li>
                                 <li>To create awareness about current educational and social problems in teacher trainees.</li>
-                                <li>To achieve academic 
-`excellence among the economically, socially, academically in the teacher trainees</li>
-<li>To create awareness about social, national and international issues among the teacher trainees.</li>
+                                <li>To achieve academic
+                                    `excellence among the economically, socially, academically in the teacher trainees</li>
+                                <li>To create awareness about social, national and international issues among the teacher trainees.</li>
                             </ul>
 
-                        </div>
+                        
 
                     </div>
 
@@ -265,13 +257,13 @@ teaching and learning process</li>
         <!-- End Two colom full width 2 -->
 
 
-    
-
-                 <?php include_once('./includes/utility-team.php') ?>
- 
 
 
-                 <?php include_once('./includes/callAction.php') ?>
+        <?php include_once('./includes/utility-team.php') ?>
+
+
+
+        <?php include_once('./includes/callAction.php') ?>
 
 
         <!-- Tweets -->
@@ -338,7 +330,7 @@ teaching and learning process</li>
         });
     </script>
 
-   
+
 
 
 </body>
