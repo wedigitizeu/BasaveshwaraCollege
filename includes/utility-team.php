@@ -10,7 +10,7 @@
                
 
                 <!-- H2 heading -->
-                <h2>Messages From CAO & Principal</h2>
+                <h2>Message from the Management</h2>
 
             </div>
             <div class="col-xs-12 col-md-10 col-md-push-2">
@@ -36,15 +36,9 @@
                                         <!-- Description -->
                                         <h5>The President</h5>
                                         <!-- Paragraph -->
-                                        <p style="color: black; text-align: justify;">I am delighted to write this message. it is my unique privilege to write a message in the very 1st prospectus of this college which is a dream
-                                            come true for me and all the members.
-
-                                            in service of the public, to impart good education, affordable to the middle
-                                            class and lower-middle-class society, establishing jobs oriented college is immensely useful and purposeful.
-                                            necessary infrastructure is meticulously created, to enable students to get a quality education.
-                                            dedicated principal and experienced lecturers are eagerly awaiting
-                                            to give necessary and meaningful education to the student-teacher....<br>
-                                                                <a href="#" class="theme-btn">Load More</a>
+                                        <p style="color: black; text-align: justify;">
+                                           Sri Jagajyothi Basaveshwara Sahakara Sangha (N) came into existence in 1959, as an outcome of the deliberations of a group of motivated, selfless visionaries who felt the need to establish an educational institution in Rajajinagar area of Bangalore.These founding members were people who had migrated to Bangalore from Mumbai, Karnataka, Hyderabad- Karnataka region during the reorganisation of states.The sangha which started a primary school in 1959-60 now runs 17 educational institutions from kindergarten to graduate college with the noble motive of educating and empowering children mainly from economically underprivileged background.<br>
+                                                              
  
                                         </p>
 
@@ -98,10 +92,10 @@
                                         <!-- Paragraph -->
                                         <p style="color: black; text-align: justify;">
                                             According to the new education policy, "No country can raise above the levels of its teachers". "The destiny of the nation is being shaped in its classrooms." the main aim of education is must have life leading, character-forming, and produce ideal citizens to the country.
-                                            according to Swami Vivekananda, "Education is the manifestation of 
+                                            According to Swami Vivekananda, "Education is the manifestation of 
                                             perfection already reached in man" keeping this vision as guiding force Sri
                                         JagaJyoti Basaveshvara Sahakara Sangha (N) is the only one biggest cooperative educational organization established by a prestigious college of education in Bangalore....
-                                                       <br> <a href="#" class="theme-btn">Load More</a>
+                                         
 </p>
 
 
@@ -160,7 +154,7 @@
 
                                             The activities that you find on this campus are unquestionable enlarging 
                                             the quest for the development of knowledge and individual skill...
-                                                              <br>  <a href="#" class="theme-btn">Load More</a>
+                                                              
 
                                         </p>
 

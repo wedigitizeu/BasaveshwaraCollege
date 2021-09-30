@@ -171,7 +171,8 @@
 <hr>
     
     <!-- About Us -->
-            <!-- Vision mission -->
+                 <?php include_once('./includes/utility-team.php') ?>
+
 
             <!-- Bootstrap -->
             <div class="container">
