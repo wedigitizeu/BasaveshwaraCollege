@@ -207,7 +207,7 @@
                 <!-- Thumbnail -->
                 <div class="swiper-container thumbnail" id="team-thumbnails">
                     <ul class="swiper-wrapper">
-                      <li class="swiper-slide" style="background-image:url(images/president.PNG)"></li>
+                      <li class="swiper-slide" style="background-image:url(images/president.jpg)"></li>
                       <li class="swiper-slide" style="background-image:url(images/Vishwanath.jpg)"></li>
                       <li class="swiper-slide" style="background-image:url(images/Reshma.jpg)"></li>
                       
