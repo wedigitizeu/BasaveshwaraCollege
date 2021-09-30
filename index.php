@@ -171,12 +171,6 @@
                             <marquee direction="left"> 
                                 Admissions Open 2021-22. Please contact us by email: basavabedcollege@gmail.com </marquee>
                         </h2>
-
-
-
-
-
-
                     </div>
                 </div>
             </div>
@@ -223,7 +217,7 @@
                                     14th main, Vijayanagar Bangalore-560040 Karnataka. This management is making lasting contribution in the field of professional education in order to inculcate the values in teachers in the present day set up. Our management is committed to society at large. The commitment of our management in promoting excellence in teacher education is reflected through its well equipped infrastructure such as well furnished class rooms, multi-purpose hall and provisions for both indoor and outdoor games for all round development of future teachers.<br>The Basaveshwara B.Ed College is far sighted and provides a stimulating environment to learn. Our aim is to develop, “Best teachers through Teacher’s Training Institution by the best and efficient teaching faculties” and serve the State and Nation by producing the Best Student Community. The college is formed by Indian Values and Culture with MUTUAL RESPECT, INTEGRITY and TEAMWORK.
                                 </p>
 
-                                <a href="#" class="theme-btn">Load More</a>
+                                <a href="about-us.php" class="theme-btn">More</a>
 
                             </div>
 
@@ -257,13 +251,15 @@
 
                     <!-- Inner Content -->
                     <div class="inner">
-
+                   
                         <div class="row">
+                       
                             <!-- Right colom -->
                             <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
+                            <h3>B.ED Admission Details </h3>
                                 <div class="right">
                                     <!-- H3 heading -->
-                                    <h3>B.ED Admission Details </h3>
+                                   
                                     <!-- Paragraph -->
                                     <p style="color: black;text-align: justify;"><b> Duration of the course :</b> The Duration of study for B.Ed. CBCS Semester Programme shall extend over a period of two years with four semesters of total 96 credits. The first semester shall be 24 credits, second semester shall be for 24 credits, third semester shall be for 24 credits and the fourth semester shall be for 24 credits. Medium of Instruction:
                                         The Medium of Instruction is either English or Kannada.
@@ -271,6 +267,7 @@
 
                                     <!-- box -->
                                     <div class="point-box">
+                                        <br><br>
                                         <!-- H4 heading -->
                                         <h4>
                                             Methods of teaching </h4>
@@ -286,7 +283,8 @@
 
                                     <div class="point-box">
                                         <!-- H4 heading -->
-                                        <h4>optional courses</h4>
+                                        <br><br>
+                                        <h4>Optional courses</h4>
                                         <!-- Paragraph -->
                                         <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
                                             and offered by the respective B.Ed colleges.
@@ -316,7 +314,7 @@
                         <div class="clearfix"> </div>
 
                     </div>
-                    <a href="#" class="theme-btn">Load More</a>
+                    <!-- <a href="#" class="theme-btn">Load More</a> -->
 
 
                 </div>

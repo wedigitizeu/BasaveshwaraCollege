@@ -123,11 +123,11 @@
                             <!-- box -->
                             <div class="site-box">
                                 <!-- Image -->
-                                <img src="images/images/g9.JPG" alt="Image">
+                                <img src="images/images/BedCollege.JPG" alt="Image">
                                 <!-- Caption -->
                                 <div class="portfolio-caption">
                                     <!-- Light box open click on icon -->
-                                    <a class="venobox" href="images/images/g9.JPG" data-gall="myGallery">
+                                    <a class="venobox" href="images/images/BedCollege.JPG" data-gall="myGallery">
                                         <i class="fa fa-plus"></i>  <!-- Icon -->
                                     </a>
                                     <h5>Basaveshwara B.Ed College</h5>    <!-- heading -->
