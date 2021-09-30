@@ -10,7 +10,7 @@
                
 
                 <!-- H2 heading -->
-                <h2>Messages From CAO & Principle</h2>
+                <h2>Messages From CAO & Principal</h2>
 
             </div>
             <div class="col-xs-12 col-md-10 col-md-push-2">
