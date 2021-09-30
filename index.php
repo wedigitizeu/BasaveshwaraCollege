@@ -160,15 +160,19 @@
 
         <div class="container">
             <div class="row">
-                <h3 style="color: white">Notifications : </h3>
+                
 
 
                 <div class="col-xs-12">
-
+                <h3 style="color: white">Notifications : </h3>
                     <div class="inner">
-                        <p style="color: red">
-                            <marquee direction="left">Please Note: Our COllege Admission opened-2021. Please contact us basavabedcollege@gmail.com </marquee>
-                        </p>
+
+                        <h2 style="color:white;">
+                            <marquee direction="left"> 
+                                Admissions Open 2021-22. Please contact us by email: basavabedcollege@gmail.com </marquee>
+                        </h2>
+
+
 
 
 
@@ -335,13 +339,13 @@
 
 
     <?php include_once('./includes/callAction.php') ?>
-    
 
 
-        <?php 
-            include_once('./includes/google-map.php')
-        ?>
-  
+
+    <?php
+    include_once('./includes/google-map.php')
+    ?>
+
 
 
 
