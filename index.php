@@ -353,9 +353,9 @@
 
 
     <!-- Preloader -->
-    <div class="site-preloader">
+    <!-- <div class="site-preloader">
         <img src="images/loader.gif" alt="loader">
-    </div>
+    </div> -->
 
     </div>
 
