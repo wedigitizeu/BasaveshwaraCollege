@@ -369,9 +369,10 @@
                                 $('#loading').hide(); // show reloader image
                                 var response = JSON.parse(JSON.stringify(data));
                                 if (response.status != 200) {
+                                    console.log(response);
                                     $('#loading').hide(); // show reloader image
 
-                                    swal("Opps..!", response.message, "warning");
+                                    swal("Oops..!", response.error, "warning");
                                 } else {
                                     swal("Thank you for getting in touch!", "One of our colleagues will get back in touch with you soon!", "success");
                                 }

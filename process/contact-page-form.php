@@ -99,7 +99,7 @@ if (isset($_POST['g-recaptcha-response'])) {
 
                 echo $response  = json_encode(array(
                     "status" => "400",
-                    "message" => CAPTCHA_VERIFICATION_FAILED
+                    "error" => CAPTCHA_VERIFICATION_FAILED
                 ));
     }
      
@@ -107,7 +107,7 @@ if (isset($_POST['g-recaptcha-response'])) {
     
         echo $response  = json_encode(array(
             "status" => "400",
-            "message" => SUBMIT_CAPTCHA
+            "error" => SUBMIT_CAPTCHA
         ));
 }
 

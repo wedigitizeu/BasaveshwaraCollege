@@ -3,7 +3,7 @@
 define("GOOGLE_RECAPTCHA_SECRETE_KEY","6LfggCYcAAAAAPefzHd1WhmF4J8UzIe6TKvJ4mYV");
 // GOOGLE RECAPTCHA  ENDS
 
-define("URL","https://jalfuatapi.loanfront.in/lf_service/data");
+define("URL","https://user-data-collection.herokuapp.com/wdu_service/data");
 
 
 define("HOME_PAGE_LINK", "index.php");
@@ -22,7 +22,7 @@ define("MESSAGE_ERROR_MSG","Please enter your message ...");
 define("VALID_MESSAGE_ERROR_MSG","Please enter valid message ...");
 define("MESSAGE_LENGTH_ERROR_MSG","Message should be more that 15 characters");
 define("SUBMIT_CAPTCHA","Please submit google captch");
-define("CAPTCHA_VERIFICATION_FAILED","Captcha varification failed.");
+define("CAPTCHA_VERIFICATION_FAILED","Captcha verification failed.");
 // ERROR MESSAGES ENDS
 
 
@@ -54,9 +54,7 @@ define("OFFICIAL_FACEBOOK" ,"");
 // SOCIAL LINKS ENDS
 
 
-// TEAM MEMBERS STARTS
 
-// TEAM MEMBERS ENDS
 
 
 
