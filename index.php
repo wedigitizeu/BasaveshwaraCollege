@@ -190,11 +190,11 @@
                                     <div class="left-box">
                                         <!-- Figure -->
                                         <figure>
-                                            <img src="images/images/b10.JPG" alt="image">
+                                            <img src="images/images/b10.JPG" alt="image" height="550">
                                         </figure>
-                                            <figure>
+                                         <!--    <figure>
                                             <img src="images/images/b11.JPG" alt="image">
-                                        </figure>
+                                        </figure> -->
                                     </div>
                                 </div>
 
