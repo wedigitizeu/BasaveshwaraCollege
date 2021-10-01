@@ -9,6 +9,14 @@
 
     <!-- Title -->
     <title>B.Ed-BASAVESHWARA COLLEGE OF EDUCATION</title>
+    <meta name="title" content="B.Ed-BASAVESHWARA COLLEGE OF EDUCATION">
+<meta name="description" content="The Basaveshwara B.Ed College is far-sighted and provides a stimulating environment to learn. Our aim is to develop, “Best teachers through Teacher’s Training Institution">
+<meta name="keywords" content="B.Ed College in Bangalore, Basaveshwara B.Ed College, B.Ed College">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="revisit-after" content=" days">
+<meta name="author" content="We Digitize U">
 
     <!-- Necessary CSS Files -->
     <link href="css/bootstrap.min.css" rel="stylesheet">            									<!-- Bootstrap CSS Only GRID -->
