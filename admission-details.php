@@ -107,14 +107,13 @@ The Medium of Instruction is either English or Kannada.
                         Methods of teaching  </h4>
                         <!-- Paragraph -->
                         <p style="color: black;text-align: justify;">Each student teacher shall take two content cum methods of teaching school subjects as per the combinations given below.
-English & History<br>
-Kannada & History<br>
-English & Biology<br>
-Physics & Mathematics<br>
-Biology & Chemistry<br>
-Chemistry & Mathematics<br>
-Hindi & History<br>
-English & Geography<br>
+* English & History<br>
+* Kannada & History<br>
+* Physics & Mathematics<br>
+* Biology & Chemistry<br>
+* Chemistry & Mathematics<br>
+* Hindi & History<br>
+* English & Geography<br>
                         </p>
                     </div>
 
@@ -126,9 +125,9 @@ English & Geography<br>
                         <!-- Paragraph -->
                         <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
                             and offered by the respective B.Ed colleges.
-                            Guidance and Counselling.<br>
-Value Education.<br>
-Education for Peace.
+                            <br>* Guidance and Counselling.<br>
+* Value Education.<br>
+* Education for Peace.
                         </p>
                     </div>
                 </div>
