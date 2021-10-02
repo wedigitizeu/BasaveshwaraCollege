@@ -326,7 +326,6 @@
     <!-- End service box -->
     <!-- Statistic -->
 
-    <!-- End Statistic -->
 
 
 
