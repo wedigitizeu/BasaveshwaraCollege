@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row" >
         <div class="col-xs-12">
-         <img src="images/logo.jpg" width="1250" height="100" alt="Basaveshvara college banglore vijayanagara b.ed collge">  
+         <img src="images/basavaLogo.png" width="1250" height="100" alt="Basaveshvara college banglore vijayanagara b.ed collge">  
          <!-- Logo -->
          <div class="site-logo">
             <!-- Link -->

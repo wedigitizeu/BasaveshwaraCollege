@@ -40,7 +40,7 @@
                     <!-- H2 heading -->
                     <h2>faculty</h2>
                     <!-- H1 Heading -->
-                    <h1>Basaveshwara B.ED College</h1>
+                    <h1>Basaveshwara B.Ed College</h1>
                     <!-- Bredcum links -->
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
@@ -90,7 +90,7 @@
                                     <h4><a href="#" style="color: black">Principal</a></h4>
 
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5> M sc(chem),M ed ,M phil,(Ph D)</p>
+                                    <p><h5>Qualification :</h5> M.Sc(chem), M.Ed, M.Phil, <br>(Ph D)</p>
 
                                     <!-- Icon -->
                                     <figure><i class="fa fa-briefcase"></i></figure>
@@ -114,7 +114,7 @@
                                     <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5> M.sc,M.ed,M.phil,SLET</p>
+                                    <p><h5>Qualification :</h5> M.Sc, M.Ed, M.Phil, SLET</p>
 
 
                                     <!-- Icon -->
@@ -141,7 +141,7 @@
                                     <h4><a href="#">Vasundara B M</a></h4>
                                     <h4><a href="#" style="color: black">Assistant Professor</a></h4>
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5>MA,M.Ed</p>
+                                    <p><h5>Qualification :</h5>MA, M.Ed</p>
 
 
                                     <!-- Icon -->
@@ -170,7 +170,7 @@
                                     <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5>M.Sc,M.Ed</p>
+                                    <p><h5>Qualification :</h5>M.Sc, M.Ed</p>
 
                                     <!-- Icon -->
                                     <figure><i class="fa fa-briefcase"></i></figure>
@@ -197,7 +197,7 @@
                                     <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5> MA,M.Ed</p>
+                                    <p><h5>Qualification :</h5> MA, M.Ed</p>
 
 
 

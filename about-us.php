@@ -41,7 +41,7 @@
                         <!-- H2 heading -->
                         <h2>About us</h2>
                         <!-- H1 Heading -->
-                        <h1>Basaveshwara B.ED College</h1>
+                        <h1>Basaveshwara B.Ed College</h1>
                         <!-- Bredcum links -->
                         <div class="row">
                             <div class="col-xs-12 col-sm-6 col-sm-offset-3">
@@ -91,7 +91,7 @@
                                         <!-- Paragraph -->
                                         <p style=" text-align: justify;">
                                             The vision of the college is "To bring out the best in man by providing value based need
-                                            based and career oriented education and create self reliant global citizens"
+                                            based and career oriented education and create self reliant global citizens".
                                         </p>
 
 
@@ -199,7 +199,7 @@
                             <!-- Heading -->
                             <h3 style="color: white">Adapt and Growth</h3>
                             <!-- Paragraph -->
-                            <p> create a healthy atmosphere for learning and
+                            <p> Create a healthy atmosphere for learning and
                                 positive interaction.</p>
                         </div>
                     </div>
@@ -229,10 +229,10 @@
                                 <li>To create the citizens, who have a harmoneous blead of traditional values and professionlal skills.</li>
                                 <li>To prepare a international standerd, competent truly dedicated and committed teacher trainees.</li>
                                 <li> To provide teacher trainees in using information teachnological, and modern facilities for effective
-                                    teaching and learning process</li>
+                                    teaching and learning process.</li>
                                 <li>To create awareness about current educational and social problems in teacher trainees.</li>
                                 <li>To achieve academic
-                                    `excellence among the economically, socially, academically in the teacher trainees</li>
+                                    excellence among the economically, socially, academically in the teacher trainees.</li>
                                 <li>To create awareness about social, national and international issues among the teacher trainees.</li>
                             </ul>
 

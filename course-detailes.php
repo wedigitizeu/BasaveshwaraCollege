@@ -41,15 +41,15 @@
                 <div class="col-xs-12">
 
                     <!-- H2 heading -->
-                    <h2>B.ED Cource</h2>
+                    <h2>B.Ed Cource</h2>
                     <!-- H1 Heading -->
-                    <h1>Basaveshwara B.ED College</h1>
+                    <h1>Basaveshwara B.Ed College</h1>
                     <!-- Bredcum links -->
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
                             <ul>
                                 <li> <a href="index.php">Home » </a> </li>
-                                <li>B.ED Cource</li>
+                                <li>B.Ed Cource</li>
                             </ul>
 
                         </div>
@@ -72,17 +72,17 @@
                     <div class="inner">
 
                         <!-- H3 heading -->
-                        <h3> B.ED Cource Details</h3>
+                        <h3> B.Ed Cource Details</h3>
 
 
 
                         <!-- image -->
                         <div class="case-iamge">
-                            <figure> <img src="images/course.jpg" alt="B.ED course"> </figure>
+                            <figure> <img src="images/course.jpg" alt="B.Ed course"> </figure>
                         </div>
 
                         <!-- Paragraph -->
-                        <p style="color: black; text-align: justify;"> B.ED two years programme of study spreads over four semesters with four term end
+                        <p style="color: black; text-align: justify;"> B.Ed two years programme of study spreads over four semesters with four term end
                             examinations. the successful completion of which would lead to the award of a
                             bachelor's degree in education. The B.Ed. Program aims to train teachers for the schools in the government/private sector in India. The curriculum and evaluation systems adopted by the college are similar to those used in the typical Colleges of Education. Emphasis is given to the development of domain knowledge and teaching skills. They take foundational and experiential coursework to enable them to meet the students with linguistic, cultural, learning and behavioral diversity. Senior/Guest Lecturer for different kinds of seminar to improve students theoretical and presentation knowledge for their future
                         </p>
@@ -109,7 +109,7 @@
                                 <div class="point-box">
 
                                     <h4>
-                                        hard core courses </h4>
+                                        Hard Core Courses </h4>
 
                                     <p style="color: black;text-align: justify;">compulsory subjects of study which support the main dicipline.
                                     </p>
@@ -118,17 +118,17 @@
                                 <!-- box -->
                                 <div class="point-box">
                                     <!-- H4 heading -->
-                                    <h4>soft core courses </h4>
+                                    <h4>Soft Core Courses </h4>
                                     <!-- Paragraph -->
                                     <p style="color: black;text-align: justify;">An option for the candidate to choose a course from a pool of courses offered by the
-                                        respectiv B.ED. colleges of bangalore university. Each candidate should choose a
-                                        combination of two soft core courses for the B.ED. programme from the combinations
+                                        respectiv B.Ed. colleges of bangalore university. Each candidate should choose a
+                                        combination of two soft core courses for the B.Ed. programme from the combinations
                                         offered by the respective colleges.
                                     </p>
                                 </div>
                                 <div class="point-box">
                                     <!-- H4 heading -->
-                                    <h4>optional courses</h4>
+                                    <h4>Optional Courses</h4>
                                     <!-- Paragraph -->
                                     <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
                                         and offered by the respective B.Ed colleges.
@@ -163,7 +163,7 @@
                         <h3>Grade</h3>
                         <!-- Paragraph -->
                         <p style="color: black;text-align: justify;padding-left:5px;">Grade means a letter symbol (ABC) which indicates the broad level of performance of a
-                            student in an answer, course, semister, and programme.
+                            student in an answer, course, semester and programme.
                         </p>
 
                        

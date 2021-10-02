@@ -83,7 +83,7 @@
                         <!-- H2 heading -->
                         <h2>COntact us</h2>
                         <!-- H1 Heading -->
-                        <h1>Basaveshwara B.ED College</h1>
+                        <h1>Basaveshwara B.Ed College</h1>
                         <!-- Bredcum links -->
                         <div class="row">
                             <div class="col-xs-12 col-sm-6 col-sm-offset-3">

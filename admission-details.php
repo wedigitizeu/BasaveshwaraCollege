@@ -39,15 +39,15 @@
             <div class="col-xs-12">
 
                 <!-- H2 heading -->
-                <h2>B.ED Admission</h2>
+                <h2>B.Ed Admission</h2>
                 <!-- H1 Heading -->
-                <h1>Basaveshwara B.ED College</h1>
+                <h1>Basaveshwara B.Ed College</h1>
                 <!-- Bredcum links -->
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3">
                         <ul>
                             <li> <a href="index.php">Home » </a> </li>
-                            <li>B.ED Admission</li>
+                            <li>B.Ed Admission</li>
                         </ul>
 
                     </div>
@@ -70,13 +70,13 @@
                 <div class="inner">
 
                     <!-- H3 heading -->
-                    <h3>B.ED Admission Details</h3>
+                    <h3>B.Ed Admission Details</h3>
 
 
 
                     <!-- image -->
                     <div class="case-iamge">
-                       <figure> <img src="images/course.jpg" alt="B.ED course"> </figure>
+                       <figure> <img src="images/course.jpg" alt="B.Ed course"> </figure>
                    </div>
 
                    <!-- Paragraph -->
@@ -104,9 +104,9 @@ The Medium of Instruction is either English or Kannada.
                     <div class="point-box">
                         <!-- H4 heading -->
                         <h4>
-                        Methods of teaching  </h4>
+                        Methods of Teaching  </h4>
                         <!-- Paragraph -->
-                        <p style="color: black;text-align: justify;">Each student teacher shall take two content cum methods of teaching school subjects as per the combinations given below.
+                        <p style="color: black;text-align: justify;">Each student teacher shall take two content cum methods of teaching school subjects as per the combinations given below.<br>
 * English & History<br>
 * Kannada & History<br>
 * Physics & Mathematics<br>
@@ -121,7 +121,7 @@ The Medium of Instruction is either English or Kannada.
             
                     <div class="point-box">
                         <!-- H4 heading -->
-                        <h4>optional courses</h4>
+                        <h4>Optional Courses</h4>
                         <!-- Paragraph -->
                         <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
                             and offered by the respective B.Ed colleges.
@@ -161,13 +161,13 @@ The Medium of Instruction is either English or Kannada.
         <p style="color: black;text-align: justify;">
             <li>1 College shall admit all the candidates allotted by the Government of karnataka.</li>
             <li>For filling the other seats the respective colleges shall select the candidates
-following eligibility criteria envisaged in &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;regulations 1.1 to 1.5.</li>
+following eligibility criteria envisaged in regulations 1.1 to 1.5.</li>
             <li> The college should get the selected cand
 idates both under Government and 
-management quota within the last date fixed &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;for admission by the Banglore
+management quota within the last date fixed for admission by the Banglore
 Univeresity.
 </li>
-<li> The total intake of all B.ED. colleges shall be as fixed by NCTE/Government of 
+<li> The total intake of all B.Ed. colleges shall be as fixed by NCTE/Government of 
 karnataka from time to time.
  
 </li>
@@ -183,12 +183,12 @@ Eligibility for admission</h3>
                 <div class="list">
                     <ul style="color: black; text-align: justify;">
                         <li> Acitizen of india who has passed any bachelor's degree examination of
-bangalore University or any University in india or abroad recognized as 
-equivalent through 10+2+3/4/5 pattern of education whohas obtained 30% of 
+Bengaluru University or any University in india or abroad recognized as 
+equivalent through 10+2+3/4/5 pattern of education who has obtained 30% of 
 marks in agreegate of all the subjects he/she has studied for degree is eligible for 
-B.ED, programme.</li>
+B.Ed, programme.</li>
                         <li>The candidate with less than 50% agreegate in the degree, but a masters degree 
-with 50% is also eligible for B.ED. programme. </li>
+with 50% is also eligible for B.Ed. programme. </li>
 
                     </ul>
                 </div>
@@ -200,10 +200,10 @@ with 50% is also eligible for B.ED. programme. </li>
                 <div class="list">
                     <ul style="color: black; text-align: justify;">
          
-                                             <li> In the case of SC/ST , calegory -1 and physically challenged student 45% marks 
+                                             <li> In the case of SC/ST , category -1 and physically challenged student 45% marks 
 in aggregate of all the subjects he/she has studided for degree course  or 45%, in 
-post graduation  </li>
-                        <li>Acanditate for the admission to degree of education (B.Ed.) must fulfill the 
+post graduation.  </li>
+                        <li>A canditate for the admission to degree of education (B.Ed.) must fulfill the 
 eligility criteria as per the directives of Govt. of karnataka from time to time. </li>
                     </ul>
                 </div>
