@@ -121,7 +121,7 @@
                                     <h4>Soft Core Courses </h4>
                                     <!-- Paragraph -->
                                     <p style="color: black;text-align: justify;">An option for the candidate to choose a course from a pool of courses offered by the
-                                        respectiv B.Ed. colleges of bangalore university. Each candidate should choose a
+                                        respective B.Ed. colleges of bangalore university. Each candidate should choose a
                                         combination of two soft core courses for the B.Ed. programme from the combinations
                                         offered by the respective colleges.
                                     </p>
