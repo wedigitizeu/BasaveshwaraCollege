@@ -26,7 +26,7 @@
             <ul>
                 <li class="active"><a href="index.php">Home</a></li>
                 <li><a href="about-us.php">About us</a></li>
-                <li><a href="course-detailes.php">B.ED Course</a></li>
+                <li><a href="course-detailes.php">B.Ed Course</a></li>
                 <li><a href="admission-details.php">Admission</a></li>
                 <li><a href="faculty.php">Faculties</a></li>
                 <li><a href="contact-us.php">contact us</a></li>
