@@ -14,7 +14,7 @@
                     <!-- Font awesome icon -->
                     <i class="fa fa-clock-o"></i>
                     <!-- Text -->
-                    <span>Mon to Sat : 10:00 AM - 4:30PM</span>
+                    <span>Mon to Sat : 10:00 AM - 4:00PM</span>
                 </a>
 
             </div>
