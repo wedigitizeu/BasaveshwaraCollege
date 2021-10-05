@@ -41,7 +41,7 @@
                 <div class="col-xs-12">
 
                     <!-- H2 heading -->
-                    <h2>B.Ed Cource</h2>
+                    <h2>B.Ed Course</h2>
                     <!-- H1 Heading -->
                     <h1>Basaveshwara B.Ed College</h1>
                     <!-- Bredcum links -->
@@ -49,7 +49,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
                             <ul>
                                 <li> <a href="index.php">Home » </a> </li>
-                                <li>B.Ed Cource</li>
+                                <li>B.Ed Course</li>
                             </ul>
 
                         </div>
@@ -72,7 +72,7 @@
                     <div class="inner">
 
                         <!-- H3 heading -->
-                        <h3> B.Ed Cource Details</h3>
+                        <h3> B.Ed Course Details</h3>
 
 
 
@@ -97,7 +97,7 @@
 
                             <!-- Right colom -->
                             <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
-                                <h3>course </h3>
+                                <h3>Course </h3>
                                 <p style="color: black;text-align: justify;">A course is essantially a constituent of a program and may be a composite of
                                     several subject matter to be covered in a semester.
                                 </p>
@@ -109,7 +109,7 @@
                                 <div class="point-box">
 
                                     <h4>
-                                        Hard Core Courses </h4>
+                                        Hard Core Subjects </h4>
 
                                     <p style="color: black;text-align: justify;">compulsory subjects of study which support the main dicipline.
                                     </p>
@@ -118,7 +118,7 @@
                                 <!-- box -->
                                 <div class="point-box">
                                     <!-- H4 heading -->
-                                    <h4>Soft Core Courses </h4>
+                                    <h4>Soft Core Subjects </h4>
                                     <!-- Paragraph -->
                                     <p style="color: black;text-align: justify;">An option for the candidate to choose a course from a pool of courses offered by the
                                         respective B.Ed. colleges of bangalore university. Each candidate should choose a
