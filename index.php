@@ -160,15 +160,15 @@
 
         <div class="container">
             <div class="row">
-                
+
 
 
                 <div class="col-xs-12">
-                <h3 style="color: white">Notifications : </h3>
+                    <h3 style="color: white">Notifications : </h3>
                     <div class="inner">
 
                         <h2 style="color:white;">
-                            <marquee direction="left"> 
+                            <marquee direction="left">
                                 Admissions Open 2021-22. Please contact us by email: basavabedcollege@gmail.com </marquee>
                         </h2>
                     </div>
@@ -251,15 +251,15 @@
 
                     <!-- Inner Content -->
                     <div class="inner">
-                   
+
                         <div class="row">
-                       
+
                             <!-- Right colom -->
                             <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
-                            <h3>B.ED Admission Details </h3>
+                                <h3>B.ED Admission Details </h3>
                                 <div class="right">
                                     <!-- H3 heading -->
-                                   
+
                                     <!-- Paragraph -->
                                     <p style="color: black;text-align: justify;"><b> Duration of the course :</b> The Duration of study for B.Ed. CBCS Semester Programme shall extend over a period of two years with four semesters of total 96 credits. The first semester shall be 24 credits, second semester shall be for 24 credits, third semester shall be for 24 credits and the fourth semester shall be for 24 credits. Medium of Instruction:
                                         The Medium of Instruction is either English or Kannada.
@@ -284,7 +284,7 @@
                                     <div class="point-box">
                                         <!-- H4 heading -->
                                         <br><br>
-                                        <h4>Optional courses</h4>
+                                        <h4>Optional Subjects</h4>
                                         <!-- Paragraph -->
                                         <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
                                             and offered by the respective B.Ed colleges.
