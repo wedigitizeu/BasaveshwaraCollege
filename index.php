@@ -258,7 +258,7 @@
 
                             <!-- Right colom -->
                             <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
-                                <h3>B.ED Admission Details </h3>
+                                <h3>B.Ed Admission Details </h3>
                                 <div class="right">
                                     <!-- H3 heading -->
 
