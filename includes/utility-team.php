@@ -42,7 +42,7 @@
                                              visionaries who felt the need to establish an educational 
                                              institution in Rajajinagar area of Bangalore. These founding 
                                              members were people who had migrated to Bangalore from Mumbai,
-                                              Karnataka, Hyderabad- Karnataka region during the reorganisation 
+                                              Karnataka, Hyderabad-Karnataka region during the reorganisation 
                                               of states. The sangha which started a primary school in 1959-60 now
                                                runs 17 educational institutions from kindergarten to graduate college
                                                 with the noble motive of educating and empowering children mainly from 

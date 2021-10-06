@@ -290,9 +290,17 @@
                                         <!-- Paragraph -->
                                         <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
                                             and offered by the respective B.Ed colleges.
-                                            Guidance and Counselling.<br>
-                                            Value Education.<br>
-                                            Education for Peace.
+                                            <br>
+                                            <ul style="text-align: left;">
+                                                <li>
+                                                Guidance and Counselling.
+                                                </li>
+                                                <li> Value Education.</li>
+                                                <li> Education for Peace.</li>
+                                            </ul>
+                                            <br>
+                                           <br>
+                                           
                                         </p>
                                     </div>
                                 </div>
