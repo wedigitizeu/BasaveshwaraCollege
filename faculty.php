@@ -68,7 +68,7 @@
                 <div class="col-xs-12">
 
                     <!-- H3 Heading -->
-                    <h3>Our faculty Info</h3>
+                    <h3>Our Faculty Info</h3>
 
                     <!-- Paragraph -->
                     <div class="col-xs-12 col-sm-10 col-md-10 col-sm-offset-1 center-text">
