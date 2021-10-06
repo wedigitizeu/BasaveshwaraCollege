@@ -269,9 +269,9 @@ eligility criteria as per the directives of Govt. of karnataka from time to time
 <!-- End Footer -->
 
 <!-- Preloader -->
-<div class="site-preloader">
+<!-- <div class="site-preloader">
     <img src="images/loader.gif" alt="loader">
-</div>
+</div> -->
 
 </div>
 <!-- End Wrapper -->
