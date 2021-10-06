@@ -2,8 +2,9 @@
 <html lang="en">
 
 <head>
-    <?php include_once('./includes/head.php')?>                                                
+    <?php include_once('./includes/head.php') ?>
 </head>
+
 <body>
 
     <!-- Wrapper -->
@@ -11,16 +12,16 @@
 
         <!-- Top Bar -->
         <div class="site-top-bar">
-            <?php include_once('./includes/topBar.php')?>
+            <?php include_once('./includes/topBar.php') ?>
 
         </div>
         <!-- End Top Bar -->
 
         <!-- Header -->
         <header class="site-header" id="sticky-header">
-            <?php include_once('./includes/header.php')?>
+            <?php include_once('./includes/header.php') ?>
         </header>
-  
+
     </div>
 
     <!-- This section classes require for whole page sliders -->
@@ -71,7 +72,16 @@
 
                     <!-- Paragraph -->
                     <div class="col-xs-12 col-sm-10 col-md-10 col-sm-offset-1 center-text">
-                        <p style="text-align: justify; color: black">The teaching role of faculty members reflects their centrality in addressing the primary educational mission among colleges and universities. As faculty members teach, they disseminate and impart basic or applied knowledge to students and assist students with the learning process and applying the knowledge. In this construction of the teaching role, the teacher is the content expert, and students are regarded as learners or novices to the academic discipline or field of study. Faculty members are expected to follow developments in the field so their expertise and knowledge base remain current. Below is our faculty members details</p>
+                        <p style="text-align: justify; color: black">The teaching role of faculty members
+                         reflects their centrality in addressing the primary educational mission 
+                         among colleges and universities. 
+                         As faculty members teach, they disseminate and impart basic or applied knowledge 
+                         to students and assist students with the learning process and applying the knowledge.
+                          In this construction of the teaching role, the teacher is the content expert, 
+                          and students are regarded as learners or novices to the academic discipline or
+                           field of study. Faculty members are expected to follow developments in the field
+                            so their expertise and knowledge base remain current. Below is our faculty 
+                            members details.</p>
                     </div>
 
                     <div class="row">
@@ -90,7 +100,8 @@
                                     <h4><a href="#" style="color: black">Principal</a></h4>
 
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5> M.Sc(chem), M.Ed, M.Phil, <br>(Ph D)</p>
+                                    <p>
+                                    <h5>Qualification :</h5> M.Sc(chem), M.Ed, M.Phil, <br>(Ph D)</p>
 
                                     <!-- Icon -->
                                     <figure><i class="fa fa-briefcase"></i></figure>
@@ -114,7 +125,8 @@
                                     <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5> M.Sc, M.Ed, M.Phil, SLET</p>
+                                    <p>
+                                    <h5>Qualification :</h5> M.Sc, M.Ed, M.Phil, SLET</p>
 
 
                                     <!-- Icon -->
@@ -141,7 +153,8 @@
                                     <h4><a href="#">Vasundara B M</a></h4>
                                     <h4><a href="#" style="color: black">Assistant Professor</a></h4>
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5>MA, M.Ed</p>
+                                    <p>
+                                    <h5>Qualification :</h5>MA, M.Ed</p>
 
 
                                     <!-- Icon -->
@@ -170,7 +183,8 @@
                                     <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5>M.Sc, M.Ed</p>
+                                    <p>
+                                    <h5>Qualification :</h5>M.Sc, M.Ed</p>
 
                                     <!-- Icon -->
                                     <figure><i class="fa fa-briefcase"></i></figure>
@@ -197,7 +211,8 @@
                                     <h4><a href="#" style="color: black">Assistant Professor</a></h4>
 
                                     <!-- Paragraph -->
-                                    <p><h5>Qualification :</h5> MA, M.Ed</p>
+                                    <p>
+                                    <h5>Qualification :</h5> MA, M.Ed</p>
 
 
 
@@ -301,7 +316,7 @@
 
     <!-- Footer -->
     <footer class="site-footer">
-        <?php include_once('./includes/footer.php')?>
+        <?php include_once('./includes/footer.php') ?>
     </footer>
     <!-- End Footer -->
     <!-- Preloader -->
@@ -309,20 +324,20 @@
         <img src="images/loader.gif" alt="loader">
     </div> -->
 
-</div>
-<!-- End Wrapper -->
+    </div>
+    <!-- End Wrapper -->
 
 
 
-<script type="text/javascript" src="js/YouTubePopUp.jquery.js"></script> <!-- Youtube Video Popup js -->
-<script type="text/javascript">
-    jQuery(function() {
-        jQuery("a.bla-1").YouTubePopUp();
-        jQuery("a.bla-2").YouTubePopUp({
-            autoplay: 0
+    <script type="text/javascript" src="js/YouTubePopUp.jquery.js"></script> <!-- Youtube Video Popup js -->
+    <script type="text/javascript">
+        jQuery(function() {
+            jQuery("a.bla-1").YouTubePopUp();
+            jQuery("a.bla-2").YouTubePopUp({
+                autoplay: 0
             }); // Disable autoplay
-    });
-</script>
+        });
+    </script>
 
 </body>
 
