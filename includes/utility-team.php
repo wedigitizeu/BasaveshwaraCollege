@@ -95,7 +95,7 @@
                                 <div class="col-xs-12 col-sm-7">
                                     <div class="team-description">
                                         <!-- Title -->
-                                        <h4>Mr Sasalu J Vishwanath</h4>
+                                        <h4>Sasalu J Vishwanath</h4>
                                         <!-- Description -->
                                         <h5>CEO,Cheif Administrative Officer</h5>
                                         <!-- Paragraph -->
