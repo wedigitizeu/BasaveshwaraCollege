@@ -84,7 +84,8 @@
                         <!-- Paragraph -->
                         <p style="color: black; text-align: justify;"> B.Ed two years programme of study spreads over four semesters with four term end
                             examinations. the successful completion of which would lead to the award of a
-                            bachelor's degree in education. The B.Ed. Program aims to train teachers for the schools in the government/private sector in India. The curriculum and evaluation systems adopted by the college are similar to those used in the typical Colleges of Education. Emphasis is given to the development of domain knowledge and teaching skills. They take foundational and experiential coursework to enable them to meet the students with linguistic, cultural, learning and behavioral diversity. Senior/Guest Lecturer for different kinds of seminar to improve students theoretical and presentation knowledge for their future
+                            bachelor's degree in education. The B.Ed. Program aims to train teachers for the schools in the government/private sector in India. The curriculum and evaluation systems adopted by the college are similar to those used in the typical Colleges of Education. Emphasis is given to the development of domain knowledge and teaching skills.
+                             They take foundational and experiential coursework to enable them to meet the students with linguistic, cultural, learning and behavioral diversity. Senior/Guest Lecturer for different kinds of seminar to improve students theoretical and presentation knowledge for their future.
                         </p>
 
 
@@ -97,7 +98,7 @@
 
                             <!-- Right colom -->
                             <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
-                                <h3>Course </h3>
+                                <h3>B.Ed Course </h3>
                                 <p style="color: black;text-align: justify;">A course is essantially a constituent of a program and may be a composite of
                                     several subject matter to be covered in a semester.
                                 </p>
@@ -111,7 +112,8 @@
                                     <h4>
                                         Hard Core Subjects </h4>
 
-                                    <p style="color: black;text-align: justify;">compulsory subjects of study which support the main dicipline.
+                                    <p style="color: black;text-align: justify;">Compulsory subjects of study which 
+                                    support the main dicipline.
                                     </p>
                                 </div>
 
@@ -120,8 +122,9 @@
                                     <!-- H4 heading -->
                                     <h4>Soft Core Subjects </h4>
                                     <!-- Paragraph -->
-                                    <p style="color: black;text-align: justify;">An option for the candidate to choose a course from a pool of courses offered by the
-                                        respective B.Ed. colleges of bangalore university. Each candidate should choose a
+                                    <p style="color: black;text-align: justify;">An option for the candidate to choose a 
+                                    course from a pool of courses offered by the
+                                        respective B.Ed. colleges of Bangalore University. Each candidate should choose a
                                         combination of two soft core courses for the B.Ed. programme from the combinations
                                         offered by the respective colleges.
                                     </p>

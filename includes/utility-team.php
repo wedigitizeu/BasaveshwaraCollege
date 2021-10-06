@@ -1,4 +1,3 @@
-
 <!-- Team -->
 <div id="team" class="site-team site-white-section">
 
@@ -7,7 +6,7 @@
         <div class="row">
             <div class="col-xs-12">
 
-               
+
 
                 <!-- H2 heading -->
                 <h2>Message from the Management</h2>
@@ -37,9 +36,19 @@
                                         <h5>The President</h5>
                                         <!-- Paragraph -->
                                         <p style="color: black; text-align: justify;">
-                                           Sri Jagajyothi Basaveshwara Sahakara Sangha (N) came into existence in 1959, as an outcome of the deliberations of a group of motivated, selfless visionaries who felt the need to establish an educational institution in Rajajinagar area of Bangalore.These founding members were people who had migrated to Bangalore from Mumbai, Karnataka, Hyderabad- Karnataka region during the reorganisation of states.The sangha which started a primary school in 1959-60 now runs 17 educational institutions from kindergarten to graduate college with the noble motive of educating and empowering children mainly from economically underprivileged background.<br>
-                                                              
- 
+                                            Sri Jagajyothi Basaveshwara Sahakara Sangha (N)
+                                             came into existence in 1959, as an outcome of 
+                                             the deliberations of a group of motivated, selfless 
+                                             visionaries who felt the need to establish an educational 
+                                             institution in Rajajinagar area of Bangalore. These founding 
+                                             members were people who had migrated to Bangalore from Mumbai,
+                                              Karnataka, Hyderabad- Karnataka region during the reorganisation 
+                                              of states. The sangha which started a primary school in 1959-60 now
+                                               runs 17 educational institutions from kindergarten to graduate college
+                                                with the noble motive of educating and empowering children mainly from 
+                                                economically underprivileged background.<br>
+
+
                                         </p>
 
 
@@ -65,16 +74,16 @@
                                             </label>
                                         </div>
 
-                                        
+
                                     </div>
 
                                 </div>
                             </div>
 
                         </div>
-                        
-                        
-                        
+
+
+
                         <div class="swiper-slide">
 
                             <!-- Bootstrap inner columns -->
@@ -92,11 +101,11 @@
                                         <!-- Paragraph -->
                                         <p style="color: black; text-align: justify;">
                                             According to the new education policy, "No country can raise above the levels of its teachers". "The destiny of the nation is being shaped in its classrooms." the main aim of education is must have life leading, character-forming, and produce ideal citizens to the country.
-                                            According to Swami Vivekananda, "Education is the manifestation of 
+                                            According to Swami Vivekananda, "Education is the manifestation of
                                             perfection already reached in man" keeping this vision as guiding force Sri
-                                        JagaJyoti Basaveshvara Sahakara Sangha (N) is the only one biggest cooperative educational organization established by a prestigious college of education in Bangalore....
-                                         
-</p>
+                                            JagaJyoti Basaveshvara Sahakara Sangha (N) is the only one biggest cooperative educational organization established by a prestigious college of education in Bangalore.
+
+                                        </p>
 
 
                                         <!-- Progress -->
@@ -121,7 +130,7 @@
                                             </label>
                                         </div>
 
-                                        
+
                                     </div>
 
                                 </div>
@@ -144,17 +153,17 @@
                                         <!-- Description -->
                                         <h5>THE PRINCIPAL</h5>
                                         <!-- Paragraph -->
-                                        <p style="color: black;text-align: justify;">The moment you stepped into Basaveshwara collage of 
-                                            education your feeling drags you to a most devoted world of excellence in the 
-                                            field of education. there is un-visible vibrancy in the air and the very 
-                                            the atmosphere which seems to be charged with knowledge and enlightenment in the 
-                                            very recognition appeared on you exhibits that you have entered into extra 
+                                        <p style="color: black;text-align: justify;">The moment you stepped into Basaveshwara collage of
+                                            education your feeling drags you to a most devoted world of excellence in the
+                                            field of education. There is un-visible vibrancy in the air and the very
+                                            the atmosphere which seems to be charged with knowledge and enlightenment in the
+                                            very recognition appeared on you exhibits that you have entered into extra
                                             ordinary institution.
 
 
-                                            The activities that you find on this campus are unquestionable enlarging 
-                                            the quest for the development of knowledge and individual skill...
-                                                              
+                                            The activities that you find on this campus are unquestionable enlarging
+                                            the quest for the development of knowledge and individual skill.
+
 
                                         </p>
 
@@ -181,7 +190,7 @@
                                             </label>
                                         </div>
 
-                                        
+
                                     </div>
 
                                 </div>
@@ -201,31 +210,31 @@
                 <!-- Thumbnail -->
                 <div class="swiper-container thumbnail" id="team-thumbnails">
                     <ul class="swiper-wrapper">
-                      <li class="swiper-slide" style="background-image:url(images/bs.PNG)"></li>
-                      <li class="swiper-slide" style="background-image:url(images/Vishwanath.jpg)"></li>
-                      <li class="swiper-slide" style="background-image:url(images/Reshma.jpg)"></li>
-                      
-                      
-                      
-                      
-                  </ul>
-              </div>
-              <!-- End thumbnail -->
+                        <li class="swiper-slide" style="background-image:url(images/bs.PNG)"></li>
+                        <li class="swiper-slide" style="background-image:url(images/Vishwanath.jpg)"></li>
+                        <li class="swiper-slide" style="background-image:url(images/Reshma.jpg)"></li>
 
-          </div>
-          <div class="col-xs-12">
-            <!-- Navigation -->
-            <div class="team-section-arrow">
-                <div id="team-button-next" class="swiper-button-next"></div>
-                <div id="team-button-prev" class="swiper-button-prev"></div>
+
+
+
+                    </ul>
+                </div>
+                <!-- End thumbnail -->
+
             </div>
-            <!-- End navigation -->
+            <div class="col-xs-12">
+                <!-- Navigation -->
+                <div class="team-section-arrow">
+                    <div id="team-button-next" class="swiper-button-next"></div>
+                    <div id="team-button-prev" class="swiper-button-prev"></div>
+                </div>
+                <!-- End navigation -->
+            </div>
+
         </div>
 
     </div>
+    <!-- End Bootstrap -->
 
 </div>
-<!-- End Bootstrap -->
-
-</div>
-        <!-- End team -->
+<!-- End team -->

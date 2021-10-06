@@ -41,7 +41,7 @@ define("MOBILE_NUMBER"," 7019131012");
 
 // COMPANY ADDRESS STARTS
 
-define("ADDRESS_LINE1","Basaveshwara College Of Education,");
+define("ADDRESS_LINE1","Basaveshwara College of Education,");
 define("ADDRESS_LINE2","14th main, Vijayanagar Bangalore-560040 Karnataka ");
 
 

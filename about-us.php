@@ -59,8 +59,12 @@
         </div>
         <!-- End Main banner -->
 
+        
+
         <!-- Vision mission -->
         <div id="vision-mission" class="page-vision-mission site-white-section">
+
+
 
             <!-- Bootstrap -->
             <div class="container">
@@ -187,7 +191,8 @@
                             <!-- Heading -->
                             <h3 style="color: white">Academic Excellence </h3>
                             <!-- Paragraph -->
-                            <p>To ignite the young minds inthe learning environment of high academic excellence.</p>
+                            <p>To ignite the young minds in the learning 
+                                environment of high academic excellence.</p>
                         </div>
                     </div>
 
