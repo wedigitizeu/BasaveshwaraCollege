@@ -169,7 +169,9 @@
 
                         <h2 style="color:white;">
                             <marquee direction="left">
-                                Admissions Open 2021-22. Please contact us by email: basavabedcollege@gmail.com </marquee>
+                                Admissions Open 2021-22. Please contact us by email: basavabedcollege@gmail.com 
+                                <br> <br>
+                            </marquee>
                         </h2>
                     </div>
                 </div>
