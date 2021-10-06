@@ -47,7 +47,7 @@
                         <div class="col-xs-12 col-sm-6 col-sm-offset-3">
                             <ul>
                                 <li> <a href="index.php">Home » </a> </li>
-                                <li>faculty</li>
+                                <li>Faculty</li>
                             </ul>
 
                         </div>
