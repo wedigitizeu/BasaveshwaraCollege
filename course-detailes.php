@@ -128,7 +128,7 @@
                                 </div>
                                 <div class="point-box">
                                     <!-- H4 heading -->
-                                    <h4>Optional Courses</h4>
+                                    <h4>Optional Subjects</h4>
                                     <!-- Paragraph -->
                                     <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
                                         and offered by the respective B.Ed colleges.
@@ -262,9 +262,9 @@
     <!-- End Footer -->
 
     <!-- Preloader -->
-    <div class="site-preloader">
+    <!-- <div class="site-preloader">
         <img src="images/loader.gif" alt="loader">
-    </div>
+    </div> -->
 
     </div>
     <!-- End Wrapper -->
