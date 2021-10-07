@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <style>
+        .activeHome{
+		 color: #4543d0 !important;
+		 }
+    </style>
     <?php include_once('./includes/head.php') ?>
 </head>
 
@@ -158,7 +163,7 @@
         </div>
 
 
-        <div class="container">
+        <!-- <div class="container">
             <div class="row">
 
 
@@ -176,165 +181,52 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
+
+
     </div>
     <hr>
 
     <!-- About Us -->
     <?php include_once('./includes/utility-team.php') ?>
 
-
-    <!-- Bootstrap -->
     <div class="container">
-        <!-- upper section -->
-        <div class="upper-section">
-            <div class="row">
-                <div class="col-xs-12">
+        <div class="row">
 
-                    <!-- Clearfix -->
-                    <div class="clearfix"></div>
+            <div class="col-md-4" style="margin-top: 5.5%;">
 
-                    <!-- Bootstrap nested columns -->
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-12 col-md-6">
-                            <div class="left-box">
-                                <!-- Figure -->
-                                <figure>
-                                    <img src="images/images/b10.JPG" alt="image" height="550">
-                                </figure>
-                                <!--    <figure>
-                                            <img src="images/images/b11.JPG" alt="image">
-                                        </figure> -->
-                            </div>
-                        </div>
-
-                        <div class="col-xs-12 col-sm-12 col-md-6">
-                            <div class="right-box">
-                                <!-- H3 heading -->
-                                <h3>About Us</h3>
-
-                                <!-- Paragraph -->
-                                <p style=" text-align: justify; color: black;">
-                                    It is one of the Institution run by : Basaveshwara college of education,
-                                    14th main, Vijayanagar Bangalore-560040 Karnataka. This management is making lasting contribution in the field of professional education in order to inculcate the values in teachers in the present day set up. Our management is committed to society at large. The commitment of our management in promoting excellence in teacher education is reflected through its well equipped infrastructure such as well furnished class rooms, multi-purpose hall and provisions for both indoor and outdoor games for all round development of future teachers.<br>The Basaveshwara B.Ed College is far sighted and provides a stimulating environment to learn. Our aim is to develop, “Best teachers through Teacher’s Training Institution by the best and efficient teaching faculties” and serve the State and Nation by producing the Best Student Community. The college is formed by Indian Values and Culture with MUTUAL RESPECT, INTEGRITY and TEAMWORK.
-                                </p>
-
-                                <a href="about-us.php" class="theme-btn">More</a>
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
+                <figure>
+                    <img style="object-fit: cover;" src="images/images/b10.JPG" alt="image">
+                </figure>
             </div>
+            <h3>About Us</h3>
+            <div class="col-md-8" style="text-align: justify;color: black;">
+                It is one of the Institution run by : Basaveshwara college of education,
+                14th main, Vijayanagar Bangalore-560040 Karnataka. This management is
+                making lasting contribution in the field of professional education in
+                order to inculcate the values in teachers in the present day set up.
+                Our management is committed to society at large. The commitment of
+                our management in promoting excellence in teacher education is reflected
+                through its well equipped infrastructure such as well furnished class rooms,
+                multi-purpose hall and provisions for both indoor and outdoor games for
+                all round development of future teachers. <br> <br>
+                The Basaveshwara B.Ed College is far sighted and provides a stimulating environment to learn.
+                <br>
+                Our aim is to develop, “Best teachers through Teacher’s Training Institution by the best and
+                efficient teaching faculties”
+                and serve the State and Nation by producing the Best Student Community.
+                <br>
+                The college is formed by Indian Values and Culture with MUTUAL RESPECT, INTEGRITY and TEAMWORK.
+                <br> <br>
+                <a href="about-us.php" class="theme-btn">More</a>
+            </div>
+
+
         </div>
     </div>
-    <br>
-    <!-- End Bootstrap -->
 
 
-
-    <div id="about" class="site-about site-white-section">
-
-        <!-- Bootstrap -->
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-
-                    <!-- Inner Content -->
-                    <div class="inner">
-
-                        <!-- H3 heading -->
-                        <h3></h3>
-
-
-                    </div>
-
-                    <!-- Inner Content -->
-                    <div class="inner">
-
-                        <div class="row">
-
-                            <!-- Right colom -->
-                            <div class="col-xs-12 col-sm-12 col-md-8 col-md-push-4">
-                                <h3>B.Ed Admission Details </h3>
-                                <div class="right">
-                                    <!-- H3 heading -->
-
-                                    <!-- Paragraph -->
-                                    <p style="color: black;text-align: justify;"><b> Duration of the course :</b> The Duration of study for B.Ed. CBCS Semester Programme shall extend over a period of two years with four semesters of total 96 credits. The first semester shall be 24 credits, second semester shall be for 24 credits, third semester shall be for 24 credits and the fourth semester shall be for 24 credits. Medium of Instruction:
-                                        The Medium of Instruction is either English or Kannada.
-                                    </p>
-
-                                    <!-- box -->
-                                    <div class="point-box">
-                                        <br><br>
-                                        <!-- H4 heading -->
-                                        <h4>
-                                            Methods of teaching </h4>
-                                        <!-- Paragraph -->
-                                        <p style="color: black;text-align: justify;">Each student teacher shall take two content cum methods of teaching school subjects as per the combinations given below.
-                                            English & History<br>
-                                            Kannada & History<br>
-
-                                        </p>
-                                    </div>
-
-                                    <!-- box -->
-
-                                    <div class="point-box">
-                                        <!-- H4 heading -->
-                                        <br><br>
-                                        <h4>Optional Subjects</h4>
-                                        <!-- Paragraph -->
-                                        <p style="color: black;text-align: justify;">A candidate has to select any one of the electives prescribed by Bangalore University
-                                            and offered by the respective B.Ed colleges.
-                                            <br>
-                                            <ul style="text-align: left;">
-                                                <li>
-                                                Guidance and Counselling.
-                                                </li>
-                                                <li> Value Education.</li>
-                                                <li> Education for Peace.</li>
-                                            </ul>
-                                            <br>
-                                           <br>
-                                           
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- left colom -->
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-md-pull-8">
-                                <!-- image -->
-                                <div class="case-iamge">
-                                    <figure> <img src="images/images/BedCollege.jpg" alt="image"> </figure>
-                                    <figure> <img src="images/course2.jpg" alt="image"> </figure>
-                                    <figure> <img src="images/images/HDC_8662.JPG" alt="image"> </figure>
-
-
-
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <div class="clearfix"> </div>
-
-                    </div>
-                    <!-- <a href="#" class="theme-btn">Load More</a> -->
-
-
-                </div>
-            </div>
-        </div>
-        <!-- End Bootstrap -->
-
-    </div>
-    <!-- End service box -->
-    <!-- Statistic -->
+   
 
 
 
