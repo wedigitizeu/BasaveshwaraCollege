@@ -3,6 +3,11 @@
 <html lang="en">
 
 <head>
+    <style>
+        .activeContact{
+		color: #4543d0 !important;
+		}
+    </style>
     <?php include_once('./includes/head.php') ?>
 
     <!-- GOOGLE RECAPTCHA STARTED -->
@@ -186,9 +191,9 @@
             <!-- End Footer -->
 
             <!-- Preloader -->
-            <div class="site-preloader">
+            <!-- <div class="site-preloader">
                 <img src="images/loader.gif" alt="loader">
-            </div>
+            </div> -->
 
         </div>
 

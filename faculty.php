@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <style>
+         .activeFaculty{
+		color: #4543d0 !important;
+		}
+    </style>
     <?php include_once('./includes/head.php') ?>
 </head>
 

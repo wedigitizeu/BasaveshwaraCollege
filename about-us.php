@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <style>
+        .activeAbout{
+		 color: #4543d0 !important;
+		 }
+    </style>
     <?php include_once('includes/head.php') ?>
 </head>
 
@@ -266,7 +271,7 @@
 
         <?php include_once('./includes/utility-team.php') ?>
 
-
+<br> <br>
 
         <?php include_once('./includes/callAction.php') ?>
 

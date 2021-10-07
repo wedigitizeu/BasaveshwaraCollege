@@ -1,6 +1,6 @@
 <?php
 // GOOGLE RECAPTCHA  STARTS
-define("GOOGLE_RECAPTCHA_SECRETE_KEY","6LfggCYcAAAAAPefzHd1WhmF4J8UzIe6TKvJ4mYV");
+define("GOOGLE_RECAPTCHA_SECRETE_KEY","6LcHRbYcAAAAAIH6Alwgq7qKgmvI1EEtEmNG_hNl");
 // GOOGLE RECAPTCHA  ENDS
 
 define("URL","https://user-data-collection.herokuapp.com/wdu_service/data");

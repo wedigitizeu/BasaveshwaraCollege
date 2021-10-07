@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+<style>
+    .activeAdmission{
+		color: #4543d0 !important;
+		}
+</style>
     <?php include_once('includes/head.php') ?>
 </head>
 <body>

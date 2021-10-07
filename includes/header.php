@@ -21,15 +21,16 @@
         </div>
         <!-- End Nav Toggle Button -->
 
+        
         <!-- Navigation -->
         <nav class="site-nav">
             <ul>
-                <li class="active"><a href="index.php">Home</a></li>
-                <li><a href="about-us.php">About us</a></li>
-                <li><a href="course-detailes.php">B.Ed Course</a></li>
-                <li><a href="admission-details.php">Admission</a></li>
-                <li><a href="faculty.php">Faculties</a></li>
-                <li><a href="contact-us.php">contact us</a></li>
+                <li><a  class="activeHome" href="index.php">Home</a></li>
+                <li><a class="activeAbout" href="about-us.php">About us</a></li>
+                <li><a class="activeCourse" href="course-detailes.php">B.Ed Course</a></li>
+                <li><a class="activeAdmission" href="admission-details.php">Admission</a></li>
+                <li><a class="activeFaculty" href="faculty.php">Faculties</a></li>
+                <li><a class="activeContact" href="contact-us.php">contact us</a></li>
             </ul>
 <!-- 
                     <ul>
